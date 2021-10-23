@@ -1,6 +1,8 @@
 import { createRouter, createWebHistory } from 'vue-router';
 import ErrorDisplay from '@/views/ErrorDisplay';
 import Todo from '@/views/Todo';
+import Dashboard from '@/views/Dashboard';
+import Income from '@/views/Income';
 import Help from '@/views/Help';
 
 const routes = [
@@ -8,7 +10,18 @@ const routes = [
     path: '/',
     name: 'Todo',
     component: Todo
-  },  {
+  },
+  {
+    path: '/dashboard',
+    name: 'Dashboard',
+    component: Dashboard
+  },
+  {
+    path: '/income',
+    name: 'Income',
+    component: Income
+  },
+  {
     path: '/help',
     name: 'Help',
     component: Help

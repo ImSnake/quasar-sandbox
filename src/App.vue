@@ -1,51 +1,61 @@
 <template>
-  <div id="app">
+<!--  <div id="app">-->
     <q-layout view="lHh Lpr lFf">
-      <q-header>
+      <q-header class="app-header">
         <q-toolbar>
           <q-btn aria-label="Menu" icon="menu"
               dense flat round
               @click="leftDrawerOpen = !leftDrawerOpen" />
         </q-toolbar>
 
-        <div class="q-px-lg q-pt-xl q-mb-mb">
-          <div class="text-h3">{{ currentRouteName }}</div>
+        <div class="row wrap justify-between items-baseline q-pl-md q-pr-md q-pb-sm q-pt-md q-mb-mb">
+          <div class="text-h4">{{ currentRouteName }}</div>
           <div class="text-subtitle1">{{ todayDate }}</div>
-          <q-img src="./assets/background.jpg" class="header-image absolute-top" />
+          <q-img src="./assets/background.png" class="header-image absolute-top" />
         </div>
       </q-header>
 
-      <q-drawer
+      <q-drawer show-if-above
           v-model="leftDrawerOpen"
-          show-if-above
-          :width="250"
+          :width="200"
           :breakpoint="600" >
 
-        <q-scroll-area style="height: calc(100% - 176px); margin-top: 176px; border-right: 1px solid #ddd">
+        <q-scroll-area style="height: calc(100% - 120px); margin-top: 120px; border-right: 1px solid #ddd">
           <q-list padding>
-              <q-item :to="{ name: 'Todo' }" clickable exact v-ripple  >
-                <q-item-section avatar>
-                  <q-icon name="list" />
-                </q-item-section>
-                <q-item-section>Todo</q-item-section>
-              </q-item>
+            <q-item :to="{ name: 'Todo' }" clickable exact v-ripple  >
+              <q-item-section avatar>
+                <q-icon name="list" />
+              </q-item-section>
+              <q-item-section>Todo</q-item-section>
+            </q-item>
 
-              <q-item :to="{ name: 'Help' }" clickable exact v-ripple  >
-                <q-item-section avatar>
-                  <q-icon name="help" />
-                </q-item-section>
-                <q-item-section>Help</q-item-section>
-              </q-item>
+            <q-item :to="{ name: 'Dashboard' }" clickable exact v-ripple  >
+              <q-item-section avatar>
+                <q-icon name="dashboard" />
+              </q-item-section>
+              <q-item-section>Dashboard</q-item-section>
+            </q-item>
+
+            <q-item :to="{ name: 'Income' }" clickable exact v-ripple  >
+              <q-item-section avatar>
+                <q-icon name="paid" />
+              </q-item-section>
+              <q-item-section>Income</q-item-section>
+            </q-item>
+
+            <q-item :to="{ name: 'Help' }" clickable exact v-ripple  >
+              <q-item-section avatar>
+                <q-icon name="help" />
+              </q-item-section>
+              <q-item-section>Help</q-item-section>
+            </q-item>
           </q-list>
         </q-scroll-area>
 
-        <q-img class="absolute-top" src="./assets/background.jpg" style="height: 176px">
+        <q-img class="absolute-top" src="./assets/background.png" style="height: 120px">
           <div class="absolute-bottom bg-transparent">
-            <q-avatar size="56px" class="q-mb-sm">
-              <img src="https://cdn.quasar.dev/img/boy-avatar.png">
-            </q-avatar>
-            <div class="text-weight-bold">Username Username</div>
-            <div>@username</div>
+            <div class="text-weight-bold">{{ $store.state.userName }}</div>
+            <div>{{ $store.state.userContact }}</div>
           </div>
         </q-img>
       </q-drawer>
@@ -58,7 +68,7 @@
         </router-view>
       </q-page-container>
     </q-layout>
-  </div>
+<!--  </div>-->
 </template>
 
 
@@ -86,12 +96,23 @@ export default {
 }
 </script>
 
-<style lang="scss">
+<style scoped lang="scss">
+
+.q-item__section--avatar{
+  min-width: 40px;
+}
+
+.app-header {
+  height: 120px;
+}
+
 .header-image {
   height: 100%;
   z-index:-1;
-  opacity: 0.2;
-  filter: grayscale(100%);
+  //opacity: 0.9;
+  //filter: grayscale(100%);
 }
+
+
 </style>
 

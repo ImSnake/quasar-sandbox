@@ -1,7 +1,7 @@
 <template>
   <q-page class="bg-grey-3 column">
 
-    <div class="row q-pl-lg q-pr-none q-py-sm" >
+    <div class="row q-pl-md q-pr-none q-py-sm" >
       <q-input class="col q-pb-none" bg-color="white" placeholder="Add task"
           bottom-slots dence filled square
           v-model="newTask"
@@ -20,11 +20,11 @@
     </div>
 
     <q-list class="bg-white" bordered separator >
-      <q-item clickable v-ripple
-          :class="{ 'done bg-blue-1' : task.done }"
-          v-for="(task, index) in tasks"
-          :key="index"
-          @click="task.done = !task.done"  >
+      <q-item class="q-pl-sm" clickable v-ripple
+          :class="{ 'done' : task.done }"
+          v-for="task in tasks"
+          :key="task.id"
+          @click.stop="updateTask(task)"  >
 
         <q-item-section avatar>
           <q-checkbox v-model="task.done" class="no-pointer-events" color="primary" />
@@ -37,7 +37,7 @@
         <q-item-section v-if="task.done" side >
           <q-btn color="primary" icon="delete"
               dense flat round
-              @click.stop="deleteTask(index)" />
+              @click.stop="deleteTask(task.id)" />
         </q-item-section>
       </q-item>
     </q-list>
@@ -67,8 +67,7 @@ export default {
 
   data() {
     return {
-      newTask: '',
-      //tasks: []
+      newTask: ''
     }
   },
 
@@ -79,17 +78,30 @@ export default {
   },
 
   methods: {
+
     addTask() {
       if (this.newTask) {
-        this.tasks.push({
-          title: this.newTask,
+        const maxId = this.$store.state.tasks.reduce((acc, item) => item = acc > item.id ? acc : item.id, 0);
+        const task = {
+          id: maxId + 1,
+          title: this.newTask.trim(),
           done: false
-        });
-        this.newTask = '';
-        this.$q.notify({
-          type: 'positive',
-          message: 'Task added'
-        });
+        }
+        this.$store.dispatch('createTask', task)
+          .then(()=> {
+            this.$q.notify({
+              type: 'positive',
+              message: 'Task added'
+            });
+            console.log(task);
+            this.newTask = '';
+          })
+          .catch( error => {
+            this.$router.push({
+              name: 'ErrorDisplay',
+              params: { error: error }
+            })
+          });
       } else {
         this.$q.notify({
           type: 'negative',
@@ -97,20 +109,41 @@ export default {
         });
       }
     },
-    deleteTask(index) {
+
+    deleteTask(id) {
       this.$q.dialog({
         title: 'Confirm',
         message: 'Really delete?',
         cancel: true,
         persistent: true
       }).onOk(() => {
-        this.tasks.splice(index, 1);
-        this.$q.notify({
-          type: 'warning',
-          message: 'Task deleted'
+        this.$store.dispatch('deleteTask', id)
+        .then(()=> {
+          this.$q.notify({
+            type: 'warning',
+            message: 'Task deleted'
+          });
+        })
+        .catch( error => {
+          this.$router.push({
+            name: 'ErrorDisplay',
+            params: { error: error }
+          })
         });
       });
+    },
+
+    updateTask(task) {
+      task.done = !task.done;
+      this.$store.dispatch('updateTask', task)
+        .catch( error => {
+          this.$router.push({
+            name: 'ErrorDisplay',
+            params: { error: error }
+          })
+        });
     }
+
   }
 
 }
@@ -118,6 +151,7 @@ export default {
 
 <style scoped lang="scss">
   .done {
+    background: #ddd;
     .q-item__label {
       text-decoration: line-through;
       color: #bbb;

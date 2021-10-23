@@ -7,7 +7,7 @@ npm install
 
 ### Compiles and hot-reloads for development
 ```
-json-server --watch data.json --port 3001"
+json-server --watch data.json --port 3002"
 npm run serve
 ```
 
