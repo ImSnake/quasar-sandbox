@@ -1,0 +1,17 @@
+{
+  "profile": { "name": "default" },
+  "tasks" : [
+    {
+      "title": "Buy bananas",
+      "done": false
+    },
+    {
+      "title": "Eat bananas",
+      "done": true
+    },
+    {
+      "title": "Poo bananas",
+      "done": false
+    }
+  ]
+}
