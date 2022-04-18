@@ -1,14 +1,10 @@
 <template>
-  <div class="container">
+  <div class="row">
     <highcharts :options="chartOptions"></highcharts>
   </div>
 </template>
 
 <script>
-/*import Highcharts from "highcharts";
-import hcMore from "highcharts/highcharts-more";
-
-hcMore(Highcharts);*/
 
 export default {
   name: "GraphYearPlanFact",
@@ -22,7 +18,8 @@ export default {
     return {
       chartOptions: {
         chart: {
-          type: 'column'
+          type: 'column',
+          backgroundColor: 'transparent',
         },
 
         title: {
@@ -102,10 +99,6 @@ export default {
         },  ]
       },
     };
-  },
-
-  mounted() {
-
   },
 
 };

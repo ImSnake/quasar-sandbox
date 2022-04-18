@@ -17,7 +17,7 @@
 
       <q-drawer show-if-above
           v-model="leftDrawerOpen"
-          :width="200"
+          :width="180"
           :breakpoint="600" >
 
         <q-scroll-area style="height: calc(100% - 120px); margin-top: 120px; border-right: 1px solid #ddd">
@@ -62,7 +62,8 @@
 
       <q-page-container>
         <router-view v-slot="{ Component }">
-          <keep-alive include="Todo">
+<!--          <keep-alive :include="['Dashboard', 'Income']">-->
+          <keep-alive>
             <component :is="Component" />
           </keep-alive>
         </router-view>

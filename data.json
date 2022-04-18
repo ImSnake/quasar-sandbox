@@ -1,27 +1,3926 @@
 {
-  "profile": {
-    "name": "default"
-  },
+  "2019": [
+    {
+      "id": 150,
+      "type_id": 1,
+      "month": 1,
+      "quarter": 1,
+      "division_id": 6,
+      "division": "Зарубежные рынки",
+      "total": 499376
+    },
+    {
+      "id": 147,
+      "type_id": 1,
+      "month": 1,
+      "quarter": 1,
+      "division_id": 3,
+      "division": "Дистрибьюторы",
+      "total": 5562078
+    },
+    {
+      "id": 148,
+      "type_id": 1,
+      "month": 1,
+      "quarter": 1,
+      "division_id": 4,
+      "division": "Core3D",
+      "total": 0
+    },
+    {
+      "id": 145,
+      "type_id": 1,
+      "month": 1,
+      "quarter": 1,
+      "division_id": 1,
+      "division": "АСКОН-Интеграция",
+      "total": 19131724
+    },
+    {
+      "id": 149,
+      "type_id": 1,
+      "month": 1,
+      "quarter": 1,
+      "division_id": 5,
+      "division": "Прочие",
+      "total": 0
+    },
+    {
+      "id": 146,
+      "type_id": 1,
+      "month": 1,
+      "quarter": 1,
+      "division_id": 2,
+      "division": "Партнеры \"А\"",
+      "total": 1937291
+    },
+    {
+      "id": 156,
+      "type_id": 1,
+      "month": 2,
+      "quarter": 1,
+      "division_id": 6,
+      "division": "Зарубежные рынки",
+      "total": 124844
+    },
+    {
+      "id": 153,
+      "type_id": 1,
+      "month": 2,
+      "quarter": 1,
+      "division_id": 3,
+      "division": "Дистрибьюторы",
+      "total": 4481465
+    },
+    {
+      "id": 154,
+      "type_id": 1,
+      "month": 2,
+      "quarter": 1,
+      "division_id": 4,
+      "division": "Core3D",
+      "total": 0
+    },
+    {
+      "id": 151,
+      "type_id": 1,
+      "month": 2,
+      "quarter": 1,
+      "division_id": 1,
+      "division": "АСКОН-Интеграция",
+      "total": 20822773
+    },
+    {
+      "id": 155,
+      "type_id": 1,
+      "month": 2,
+      "quarter": 1,
+      "division_id": 5,
+      "division": "Прочие",
+      "total": 6294900
+    },
+    {
+      "id": 152,
+      "type_id": 1,
+      "month": 2,
+      "quarter": 1,
+      "division_id": 2,
+      "division": "Партнеры \"А\"",
+      "total": 2750287
+    },
+    {
+      "id": 158,
+      "type_id": 1,
+      "month": 3,
+      "quarter": 1,
+      "division_id": 2,
+      "division": "Партнеры \"А\"",
+      "total": 4312429
+    },
+    {
+      "id": 162,
+      "type_id": 1,
+      "month": 3,
+      "quarter": 1,
+      "division_id": 6,
+      "division": "Зарубежные рынки",
+      "total": 187266
+    },
+    {
+      "id": 159,
+      "type_id": 1,
+      "month": 3,
+      "quarter": 1,
+      "division_id": 3,
+      "division": "Дистрибьюторы",
+      "total": 5305707
+    },
+    {
+      "id": 160,
+      "type_id": 1,
+      "month": 3,
+      "quarter": 1,
+      "division_id": 4,
+      "division": "Core3D",
+      "total": 0
+    },
+    {
+      "id": 157,
+      "type_id": 1,
+      "month": 3,
+      "quarter": 1,
+      "division_id": 1,
+      "division": "АСКОН-Интеграция",
+      "total": 25062539
+    },
+    {
+      "id": 161,
+      "type_id": 1,
+      "month": 3,
+      "quarter": 1,
+      "division_id": 5,
+      "division": "Прочие",
+      "total": 9813458
+    },
+    {
+      "id": 164,
+      "type_id": 1,
+      "month": 4,
+      "quarter": 2,
+      "division_id": 2,
+      "division": "Партнеры \"А\"",
+      "total": 3713775
+    },
+    {
+      "id": 168,
+      "type_id": 1,
+      "month": 4,
+      "quarter": 2,
+      "division_id": 6,
+      "division": "Зарубежные рынки",
+      "total": 124844
+    },
+    {
+      "id": 165,
+      "type_id": 1,
+      "month": 4,
+      "quarter": 2,
+      "division_id": 3,
+      "division": "Дистрибьюторы",
+      "total": 5641160
+    },
+    {
+      "id": 166,
+      "type_id": 1,
+      "month": 4,
+      "quarter": 2,
+      "division_id": 4,
+      "division": "Core3D",
+      "total": 0
+    },
+    {
+      "id": 163,
+      "type_id": 1,
+      "month": 4,
+      "quarter": 2,
+      "division_id": 1,
+      "division": "АСКОН-Интеграция",
+      "total": 19833697
+    },
+    {
+      "id": 167,
+      "type_id": 1,
+      "month": 4,
+      "quarter": 2,
+      "division_id": 5,
+      "division": "Прочие",
+      "total": 7466280
+    },
+    {
+      "id": 170,
+      "type_id": 1,
+      "month": 5,
+      "quarter": 2,
+      "division_id": 2,
+      "division": "Партнеры \"А\"",
+      "total": 2905609
+    },
+    {
+      "id": 174,
+      "type_id": 1,
+      "month": 5,
+      "quarter": 2,
+      "division_id": 6,
+      "division": "Зарубежные рынки",
+      "total": 0
+    },
+    {
+      "id": 171,
+      "type_id": 1,
+      "month": 5,
+      "quarter": 2,
+      "division_id": 3,
+      "division": "Дистрибьюторы",
+      "total": 5487160
+    },
+    {
+      "id": 172,
+      "type_id": 1,
+      "month": 5,
+      "quarter": 2,
+      "division_id": 4,
+      "division": "Core3D",
+      "total": 0
+    },
+    {
+      "id": 169,
+      "type_id": 1,
+      "month": 5,
+      "quarter": 2,
+      "division_id": 1,
+      "division": "АСКОН-Интеграция",
+      "total": 20194146
+    },
+    {
+      "id": 173,
+      "type_id": 1,
+      "month": 5,
+      "quarter": 2,
+      "division_id": 5,
+      "division": "Прочие",
+      "total": 5249820
+    },
+    {
+      "id": 176,
+      "type_id": 1,
+      "month": 6,
+      "quarter": 2,
+      "division_id": 2,
+      "division": "Партнеры \"А\"",
+      "total": 5858442
+    },
+    {
+      "id": 180,
+      "type_id": 1,
+      "month": 6,
+      "quarter": 2,
+      "division_id": 6,
+      "division": "Зарубежные рынки",
+      "total": 383391
+    },
+    {
+      "id": 177,
+      "type_id": 1,
+      "month": 6,
+      "quarter": 2,
+      "division_id": 3,
+      "division": "Дистрибьюторы",
+      "total": 6452095
+    },
+    {
+      "id": 178,
+      "type_id": 1,
+      "month": 6,
+      "quarter": 2,
+      "division_id": 4,
+      "division": "Core3D",
+      "total": 0
+    },
+    {
+      "id": 175,
+      "type_id": 1,
+      "month": 6,
+      "quarter": 2,
+      "division_id": 1,
+      "division": "АСКОН-Интеграция",
+      "total": 28799605
+    },
+    {
+      "id": 179,
+      "type_id": 1,
+      "month": 6,
+      "quarter": 2,
+      "division_id": 5,
+      "division": "Прочие",
+      "total": 9653816
+    },
+    {
+      "id": 182,
+      "type_id": 1,
+      "month": 7,
+      "quarter": 3,
+      "division_id": 2,
+      "division": "Партнеры \"А\"",
+      "total": 5911903
+    },
+    {
+      "id": 186,
+      "type_id": 1,
+      "month": 7,
+      "quarter": 3,
+      "division_id": 6,
+      "division": "Зарубежные рынки",
+      "total": 429785
+    },
+    {
+      "id": 183,
+      "type_id": 1,
+      "month": 7,
+      "quarter": 3,
+      "division_id": 3,
+      "division": "Дистрибьюторы",
+      "total": 6946643
+    },
+    {
+      "id": 184,
+      "type_id": 1,
+      "month": 7,
+      "quarter": 3,
+      "division_id": 4,
+      "division": "Core3D",
+      "total": 0
+    },
+    {
+      "id": 181,
+      "type_id": 1,
+      "month": 7,
+      "quarter": 3,
+      "division_id": 1,
+      "division": "АСКОН-Интеграция",
+      "total": 22333625
+    },
+    {
+      "id": 185,
+      "type_id": 1,
+      "month": 7,
+      "quarter": 3,
+      "division_id": 5,
+      "division": "Прочие",
+      "total": 6518990
+    },
+    {
+      "id": 188,
+      "type_id": 1,
+      "month": 8,
+      "quarter": 3,
+      "division_id": 2,
+      "division": "Партнеры \"А\"",
+      "total": 4705582
+    },
+    {
+      "id": 192,
+      "type_id": 1,
+      "month": 8,
+      "quarter": 3,
+      "division_id": 6,
+      "division": "Зарубежные рынки",
+      "total": 633079
+    },
+    {
+      "id": 189,
+      "type_id": 1,
+      "month": 8,
+      "quarter": 3,
+      "division_id": 3,
+      "division": "Дистрибьюторы",
+      "total": 5835510
+    },
+    {
+      "id": 190,
+      "type_id": 1,
+      "month": 8,
+      "quarter": 3,
+      "division_id": 4,
+      "division": "Core3D",
+      "total": 0
+    },
+    {
+      "id": 187,
+      "type_id": 1,
+      "month": 8,
+      "quarter": 3,
+      "division_id": 1,
+      "division": "АСКОН-Интеграция",
+      "total": 23275510
+    },
+    {
+      "id": 191,
+      "type_id": 1,
+      "month": 8,
+      "quarter": 3,
+      "division_id": 5,
+      "division": "Прочие",
+      "total": 5902990
+    },
+    {
+      "id": 194,
+      "type_id": 1,
+      "month": 9,
+      "quarter": 3,
+      "division_id": 2,
+      "division": "Партнеры \"А\"",
+      "total": 7146607
+    },
+    {
+      "id": 198,
+      "type_id": 1,
+      "month": 9,
+      "quarter": 3,
+      "division_id": 6,
+      "division": "Зарубежные рынки",
+      "total": 820345
+    },
+    {
+      "id": 195,
+      "type_id": 1,
+      "month": 9,
+      "quarter": 3,
+      "division_id": 3,
+      "division": "Дистрибьюторы",
+      "total": 7199091
+    },
+    {
+      "id": 196,
+      "type_id": 1,
+      "month": 9,
+      "quarter": 3,
+      "division_id": 4,
+      "division": "Core3D",
+      "total": 0
+    },
+    {
+      "id": 193,
+      "type_id": 1,
+      "month": 9,
+      "quarter": 3,
+      "division_id": 1,
+      "division": "АСКОН-Интеграция",
+      "total": 31160384
+    },
+    {
+      "id": 197,
+      "type_id": 1,
+      "month": 9,
+      "quarter": 3,
+      "division_id": 5,
+      "division": "Прочие",
+      "total": 8275690
+    },
+    {
+      "id": 200,
+      "type_id": 1,
+      "month": 10,
+      "quarter": 4,
+      "division_id": 2,
+      "division": "Партнеры \"А\"",
+      "total": 7621214
+    },
+    {
+      "id": 204,
+      "type_id": 1,
+      "month": 10,
+      "quarter": 4,
+      "division_id": 6,
+      "division": "Зарубежные рынки",
+      "total": 1025329
+    },
+    {
+      "id": 201,
+      "type_id": 1,
+      "month": 10,
+      "quarter": 4,
+      "division_id": 3,
+      "division": "Дистрибьюторы",
+      "total": 8042084
+    },
+    {
+      "id": 202,
+      "type_id": 1,
+      "month": 10,
+      "quarter": 4,
+      "division_id": 4,
+      "division": "Core3D",
+      "total": 0
+    },
+    {
+      "id": 199,
+      "type_id": 1,
+      "month": 10,
+      "quarter": 4,
+      "division_id": 1,
+      "division": "АСКОН-Интеграция",
+      "total": 28939657
+    },
+    {
+      "id": 203,
+      "type_id": 1,
+      "month": 10,
+      "quarter": 4,
+      "division_id": 5,
+      "division": "Прочие",
+      "total": 9145020
+    },
+    {
+      "id": 206,
+      "type_id": 1,
+      "month": 11,
+      "quarter": 4,
+      "division_id": 2,
+      "division": "Партнеры \"А\"",
+      "total": 7483320
+    },
+    {
+      "id": 210,
+      "type_id": 1,
+      "month": 11,
+      "quarter": 4,
+      "division_id": 6,
+      "division": "Зарубежные рынки",
+      "total": 1025329
+    },
+    {
+      "id": 207,
+      "type_id": 1,
+      "month": 11,
+      "quarter": 4,
+      "division_id": 3,
+      "division": "Дистрибьюторы",
+      "total": 7234623
+    },
+    {
+      "id": 208,
+      "type_id": 1,
+      "month": 11,
+      "quarter": 4,
+      "division_id": 4,
+      "division": "Core3D",
+      "total": 0
+    },
+    {
+      "id": 205,
+      "type_id": 1,
+      "month": 11,
+      "quarter": 4,
+      "division_id": 1,
+      "division": "АСКОН-Интеграция",
+      "total": 41079574
+    },
+    {
+      "id": 209,
+      "type_id": 1,
+      "month": 11,
+      "quarter": 4,
+      "division_id": 5,
+      "division": "Прочие",
+      "total": 7581534
+    },
+    {
+      "id": 212,
+      "type_id": 1,
+      "month": 12,
+      "quarter": 4,
+      "division_id": 2,
+      "division": "Партнеры \"А\"",
+      "total": 12064999
+    },
+    {
+      "id": 216,
+      "type_id": 1,
+      "month": 12,
+      "quarter": 4,
+      "division_id": 6,
+      "division": "Зарубежные рынки",
+      "total": 1408720
+    },
+    {
+      "id": 213,
+      "type_id": 1,
+      "month": 12,
+      "quarter": 4,
+      "division_id": 3,
+      "division": "Дистрибьюторы",
+      "total": 12429455
+    },
+    {
+      "id": 214,
+      "type_id": 1,
+      "month": 12,
+      "quarter": 4,
+      "division_id": 4,
+      "division": "Core3D",
+      "total": 0
+    },
+    {
+      "id": 211,
+      "type_id": 1,
+      "month": 12,
+      "quarter": 4,
+      "division_id": 1,
+      "division": "АСКОН-Интеграция",
+      "total": 58666953
+    },
+    {
+      "id": 215,
+      "type_id": 1,
+      "month": 12,
+      "quarter": 4,
+      "division_id": 5,
+      "division": "Прочие",
+      "total": 13149910
+    },
+    {
+      "id": 221,
+      "type_id": 2,
+      "month": 1,
+      "quarter": 1,
+      "division_id": 5,
+      "division": "Прочие",
+      "total": 32363
+    },
+    {
+      "id": 218,
+      "type_id": 2,
+      "month": 1,
+      "quarter": 1,
+      "division_id": 2,
+      "division": "Партнеры \"А\"",
+      "total": 3579445
+    },
+    {
+      "id": 222,
+      "type_id": 2,
+      "month": 1,
+      "quarter": 1,
+      "division_id": 6,
+      "division": "Зарубежные рынки",
+      "total": 58086
+    },
+    {
+      "id": 219,
+      "type_id": 2,
+      "month": 1,
+      "quarter": 1,
+      "division_id": 3,
+      "division": "Дистрибьюторы",
+      "total": 7775551
+    },
+    {
+      "id": 220,
+      "type_id": 2,
+      "month": 1,
+      "quarter": 1,
+      "division_id": 4,
+      "division": "Core3D",
+      "total": 244657
+    },
+    {
+      "id": 217,
+      "type_id": 2,
+      "month": 1,
+      "quarter": 1,
+      "division_id": 1,
+      "division": "АСКОН-Интеграция",
+      "total": 20421072
+    },
+    {
+      "id": 227,
+      "type_id": 2,
+      "month": 2,
+      "quarter": 1,
+      "division_id": 5,
+      "division": "Прочие",
+      "total": 0
+    },
+    {
+      "id": 224,
+      "type_id": 2,
+      "month": 2,
+      "quarter": 1,
+      "division_id": 2,
+      "division": "Партнеры \"А\"",
+      "total": 2904116
+    },
+    {
+      "id": 228,
+      "type_id": 2,
+      "month": 2,
+      "quarter": 1,
+      "division_id": 6,
+      "division": "Зарубежные рынки",
+      "total": 2382
+    },
+    {
+      "id": 225,
+      "type_id": 2,
+      "month": 2,
+      "quarter": 1,
+      "division_id": 3,
+      "division": "Дистрибьюторы",
+      "total": 4194850
+    },
+    {
+      "id": 226,
+      "type_id": 2,
+      "month": 2,
+      "quarter": 1,
+      "division_id": 4,
+      "division": "Core3D",
+      "total": 4036886
+    },
+    {
+      "id": 223,
+      "type_id": 2,
+      "month": 2,
+      "quarter": 1,
+      "division_id": 1,
+      "division": "АСКОН-Интеграция",
+      "total": 25767697
+    },
+    {
+      "id": 233,
+      "type_id": 2,
+      "month": 3,
+      "quarter": 1,
+      "division_id": 5,
+      "division": "Прочие",
+      "total": 0
+    },
+    {
+      "id": 230,
+      "type_id": 2,
+      "month": 3,
+      "quarter": 1,
+      "division_id": 2,
+      "division": "Партнеры \"А\"",
+      "total": 6722452
+    },
+    {
+      "id": 234,
+      "type_id": 2,
+      "month": 3,
+      "quarter": 1,
+      "division_id": 6,
+      "division": "Зарубежные рынки",
+      "total": 32173
+    },
+    {
+      "id": 231,
+      "type_id": 2,
+      "month": 3,
+      "quarter": 1,
+      "division_id": 3,
+      "division": "Дистрибьюторы",
+      "total": 8230847
+    },
+    {
+      "id": 232,
+      "type_id": 2,
+      "month": 3,
+      "quarter": 1,
+      "division_id": 4,
+      "division": "Core3D",
+      "total": 1995451
+    },
+    {
+      "id": 229,
+      "type_id": 2,
+      "month": 3,
+      "quarter": 1,
+      "division_id": 1,
+      "division": "АСКОН-Интеграция",
+      "total": 26336582
+    },
+    {
+      "id": 239,
+      "type_id": 2,
+      "month": 4,
+      "quarter": 2,
+      "division_id": 5,
+      "division": "Прочие",
+      "total": 0
+    },
+    {
+      "id": 236,
+      "type_id": 2,
+      "month": 4,
+      "quarter": 2,
+      "division_id": 2,
+      "division": "Партнеры \"А\"",
+      "total": 10812546
+    },
+    {
+      "id": 240,
+      "type_id": 2,
+      "month": 4,
+      "quarter": 2,
+      "division_id": 6,
+      "division": "Зарубежные рынки",
+      "total": 0
+    },
+    {
+      "id": 237,
+      "type_id": 2,
+      "month": 4,
+      "quarter": 2,
+      "division_id": 3,
+      "division": "Дистрибьюторы",
+      "total": 4950440
+    },
+    {
+      "id": 238,
+      "type_id": 2,
+      "month": 4,
+      "quarter": 2,
+      "division_id": 4,
+      "division": "Core3D",
+      "total": 277724
+    },
+    {
+      "id": 235,
+      "type_id": 2,
+      "month": 4,
+      "quarter": 2,
+      "division_id": 1,
+      "division": "АСКОН-Интеграция",
+      "total": 25730410
+    },
+    {
+      "id": 245,
+      "type_id": 2,
+      "month": 5,
+      "quarter": 2,
+      "division_id": 5,
+      "division": "Прочие",
+      "total": 0
+    },
+    {
+      "id": 242,
+      "type_id": 2,
+      "month": 5,
+      "quarter": 2,
+      "division_id": 2,
+      "division": "Партнеры \"А\"",
+      "total": 6824123
+    },
+    {
+      "id": 246,
+      "type_id": 2,
+      "month": 5,
+      "quarter": 2,
+      "division_id": 6,
+      "division": "Зарубежные рынки",
+      "total": 2336
+    },
+    {
+      "id": 243,
+      "type_id": 2,
+      "month": 5,
+      "quarter": 2,
+      "division_id": 3,
+      "division": "Дистрибьюторы",
+      "total": 8025445
+    },
+    {
+      "id": 244,
+      "type_id": 2,
+      "month": 5,
+      "quarter": 2,
+      "division_id": 4,
+      "division": "Core3D",
+      "total": 480000
+    },
+    {
+      "id": 241,
+      "type_id": 2,
+      "month": 5,
+      "quarter": 2,
+      "division_id": 1,
+      "division": "АСКОН-Интеграция",
+      "total": 24674728
+    },
+    {
+      "id": 251,
+      "type_id": 2,
+      "month": 6,
+      "quarter": 2,
+      "division_id": 5,
+      "division": "Прочие",
+      "total": 0
+    },
+    {
+      "id": 248,
+      "type_id": 2,
+      "month": 6,
+      "quarter": 2,
+      "division_id": 2,
+      "division": "Партнеры \"А\"",
+      "total": 3774843
+    },
+    {
+      "id": 252,
+      "type_id": 2,
+      "month": 6,
+      "quarter": 2,
+      "division_id": 6,
+      "division": "Зарубежные рынки",
+      "total": 34179
+    },
+    {
+      "id": 249,
+      "type_id": 2,
+      "month": 6,
+      "quarter": 2,
+      "division_id": 3,
+      "division": "Дистрибьюторы",
+      "total": 5130016
+    },
+    {
+      "id": 250,
+      "type_id": 2,
+      "month": 6,
+      "quarter": 2,
+      "division_id": 4,
+      "division": "Core3D",
+      "total": 726993
+    },
+    {
+      "id": 247,
+      "type_id": 2,
+      "month": 6,
+      "quarter": 2,
+      "division_id": 1,
+      "division": "АСКОН-Интеграция",
+      "total": 28071454
+    },
+    {
+      "id": 257,
+      "type_id": 2,
+      "month": 7,
+      "quarter": 3,
+      "division_id": 5,
+      "division": "Прочие",
+      "total": 6992
+    },
+    {
+      "id": 254,
+      "type_id": 2,
+      "month": 7,
+      "quarter": 3,
+      "division_id": 2,
+      "division": "Партнеры \"А\"",
+      "total": 6021465
+    },
+    {
+      "id": 258,
+      "type_id": 2,
+      "month": 7,
+      "quarter": 3,
+      "division_id": 6,
+      "division": "Зарубежные рынки",
+      "total": 0
+    },
+    {
+      "id": 255,
+      "type_id": 2,
+      "month": 7,
+      "quarter": 3,
+      "division_id": 3,
+      "division": "Дистрибьюторы",
+      "total": 8242954
+    },
+    {
+      "id": 256,
+      "type_id": 2,
+      "month": 7,
+      "quarter": 3,
+      "division_id": 4,
+      "division": "Core3D",
+      "total": 1664987
+    },
+    {
+      "id": 253,
+      "type_id": 2,
+      "month": 7,
+      "quarter": 3,
+      "division_id": 1,
+      "division": "АСКОН-Интеграция",
+      "total": 28356526
+    },
+    {
+      "id": 263,
+      "type_id": 2,
+      "month": 8,
+      "quarter": 3,
+      "division_id": 5,
+      "division": "Прочие",
+      "total": 0
+    },
+    {
+      "id": 260,
+      "type_id": 2,
+      "month": 8,
+      "quarter": 3,
+      "division_id": 2,
+      "division": "Партнеры \"А\"",
+      "total": 3661504
+    },
+    {
+      "id": 264,
+      "type_id": 2,
+      "month": 8,
+      "quarter": 3,
+      "division_id": 6,
+      "division": "Зарубежные рынки",
+      "total": 7420
+    },
+    {
+      "id": 261,
+      "type_id": 2,
+      "month": 8,
+      "quarter": 3,
+      "division_id": 3,
+      "division": "Дистрибьюторы",
+      "total": 8755444
+    },
+    {
+      "id": 262,
+      "type_id": 2,
+      "month": 8,
+      "quarter": 3,
+      "division_id": 4,
+      "division": "Core3D",
+      "total": 345248
+    },
+    {
+      "id": 259,
+      "type_id": 2,
+      "month": 8,
+      "quarter": 3,
+      "division_id": 1,
+      "division": "АСКОН-Интеграция",
+      "total": 27720437
+    },
+    {
+      "id": 269,
+      "type_id": 2,
+      "month": 9,
+      "quarter": 3,
+      "division_id": 5,
+      "division": "Прочие",
+      "total": 0
+    },
+    {
+      "id": 266,
+      "type_id": 2,
+      "month": 9,
+      "quarter": 3,
+      "division_id": 2,
+      "division": "Партнеры \"А\"",
+      "total": 6779559
+    },
+    {
+      "id": 270,
+      "type_id": 2,
+      "month": 9,
+      "quarter": 3,
+      "division_id": 6,
+      "division": "Зарубежные рынки",
+      "total": 0
+    },
+    {
+      "id": 267,
+      "type_id": 2,
+      "month": 9,
+      "quarter": 3,
+      "division_id": 3,
+      "division": "Дистрибьюторы",
+      "total": 4220735
+    },
+    {
+      "id": 268,
+      "type_id": 2,
+      "month": 9,
+      "quarter": 3,
+      "division_id": 4,
+      "division": "Core3D",
+      "total": 34187
+    },
+    {
+      "id": 265,
+      "type_id": 2,
+      "month": 9,
+      "quarter": 3,
+      "division_id": 1,
+      "division": "АСКОН-Интеграция",
+      "total": 42241927
+    },
+    {
+      "id": 275,
+      "type_id": 2,
+      "month": 10,
+      "quarter": 4,
+      "division_id": 5,
+      "division": "Прочие",
+      "total": 0
+    },
+    {
+      "id": 272,
+      "type_id": 2,
+      "month": 10,
+      "quarter": 4,
+      "division_id": 2,
+      "division": "Партнеры \"А\"",
+      "total": 7550929
+    },
+    {
+      "id": 276,
+      "type_id": 2,
+      "month": 10,
+      "quarter": 4,
+      "division_id": 6,
+      "division": "Зарубежные рынки",
+      "total": 1495074
+    },
+    {
+      "id": 273,
+      "type_id": 2,
+      "month": 10,
+      "quarter": 4,
+      "division_id": 3,
+      "division": "Дистрибьюторы",
+      "total": 8180628
+    },
+    {
+      "id": 274,
+      "type_id": 2,
+      "month": 10,
+      "quarter": 4,
+      "division_id": 4,
+      "division": "Core3D",
+      "total": 475348
+    },
+    {
+      "id": 271,
+      "type_id": 2,
+      "month": 10,
+      "quarter": 4,
+      "division_id": 1,
+      "division": "АСКОН-Интеграция",
+      "total": 28387989
+    },
+    {
+      "id": 281,
+      "type_id": 2,
+      "month": 11,
+      "quarter": 4,
+      "division_id": 5,
+      "division": "Прочие",
+      "total": 14617
+    },
+    {
+      "id": 278,
+      "type_id": 2,
+      "month": 11,
+      "quarter": 4,
+      "division_id": 2,
+      "division": "Партнеры \"А\"",
+      "total": 7661294
+    },
+    {
+      "id": 282,
+      "type_id": 2,
+      "month": 11,
+      "quarter": 4,
+      "division_id": 6,
+      "division": "Зарубежные рынки",
+      "total": 9877
+    },
+    {
+      "id": 279,
+      "type_id": 2,
+      "month": 11,
+      "quarter": 4,
+      "division_id": 3,
+      "division": "Дистрибьюторы",
+      "total": 11872435
+    },
+    {
+      "id": 280,
+      "type_id": 2,
+      "month": 11,
+      "quarter": 4,
+      "division_id": 4,
+      "division": "Core3D",
+      "total": 4636771
+    },
+    {
+      "id": 277,
+      "type_id": 2,
+      "month": 11,
+      "quarter": 4,
+      "division_id": 1,
+      "division": "АСКОН-Интеграция",
+      "total": 35334195
+    },
+    {
+      "id": 287,
+      "type_id": 2,
+      "month": 12,
+      "quarter": 4,
+      "division_id": 5,
+      "division": "Прочие",
+      "total": 0
+    },
+    {
+      "id": 284,
+      "type_id": 2,
+      "month": 12,
+      "quarter": 4,
+      "division_id": 2,
+      "division": "Партнеры \"А\"",
+      "total": 9153379
+    },
+    {
+      "id": 288,
+      "type_id": 2,
+      "month": 12,
+      "quarter": 4,
+      "division_id": 6,
+      "division": "Зарубежные рынки",
+      "total": 426412
+    },
+    {
+      "id": 285,
+      "type_id": 2,
+      "month": 12,
+      "quarter": 4,
+      "division_id": 3,
+      "division": "Дистрибьюторы",
+      "total": 11516170
+    },
+    {
+      "id": 286,
+      "type_id": 2,
+      "month": 12,
+      "quarter": 4,
+      "division_id": 4,
+      "division": "Core3D",
+      "total": 1768963
+    },
+    {
+      "id": 283,
+      "type_id": 2,
+      "month": 12,
+      "quarter": 4,
+      "division_id": 1,
+      "division": "АСКОН-Интеграция",
+      "total": 72806796
+    }
+  ],
+  "2020": [
+    {
+      "id": 6,
+      "type_id": 1,
+      "month": 1,
+      "quarter": 1,
+      "division_id": 6,
+      "division": "Зарубежные рынки",
+      "total": 132795
+    },
+    {
+      "id": 3,
+      "type_id": 1,
+      "month": 1,
+      "quarter": 1,
+      "division_id": 3,
+      "division": "Дистрибьюторы",
+      "total": 4043064
+    },
+    {
+      "id": 4,
+      "type_id": 1,
+      "month": 1,
+      "quarter": 1,
+      "division_id": 4,
+      "division": "Core3D",
+      "total": 0
+    },
+    {
+      "id": 1,
+      "type_id": 1,
+      "month": 1,
+      "quarter": 1,
+      "division_id": 1,
+      "division": "АСКОН-Интеграция",
+      "total": 24841007
+    },
+    {
+      "id": 5,
+      "type_id": 1,
+      "month": 1,
+      "quarter": 1,
+      "division_id": 5,
+      "division": "Прочие",
+      "total": 0
+    },
+    {
+      "id": 2,
+      "type_id": 1,
+      "month": 1,
+      "quarter": 1,
+      "division_id": 2,
+      "division": "Партнеры \"А\"",
+      "total": 4817785
+    },
+    {
+      "id": 12,
+      "type_id": 1,
+      "month": 2,
+      "quarter": 1,
+      "division_id": 6,
+      "division": "Зарубежные рынки",
+      "total": 221325
+    },
+    {
+      "id": 9,
+      "type_id": 1,
+      "month": 2,
+      "quarter": 1,
+      "division_id": 3,
+      "division": "Дистрибьюторы",
+      "total": 6356172
+    },
+    {
+      "id": 10,
+      "type_id": 1,
+      "month": 2,
+      "quarter": 1,
+      "division_id": 4,
+      "division": "Core3D",
+      "total": 0
+    },
+    {
+      "id": 7,
+      "type_id": 1,
+      "month": 2,
+      "quarter": 1,
+      "division_id": 1,
+      "division": "АСКОН-Интеграция",
+      "total": 21405623
+    },
+    {
+      "id": 11,
+      "type_id": 1,
+      "month": 2,
+      "quarter": 1,
+      "division_id": 5,
+      "division": "Прочие",
+      "total": 2925750
+    },
+    {
+      "id": 8,
+      "type_id": 1,
+      "month": 2,
+      "quarter": 1,
+      "division_id": 2,
+      "division": "Партнеры \"А\"",
+      "total": 2983600
+    },
+    {
+      "id": 14,
+      "type_id": 1,
+      "month": 3,
+      "quarter": 1,
+      "division_id": 2,
+      "division": "Партнеры \"А\"",
+      "total": 5161620
+    },
+    {
+      "id": 18,
+      "type_id": 1,
+      "month": 3,
+      "quarter": 1,
+      "division_id": 6,
+      "division": "Зарубежные рынки",
+      "total": 354120
+    },
+    {
+      "id": 15,
+      "type_id": 1,
+      "month": 3,
+      "quarter": 1,
+      "division_id": 3,
+      "division": "Дистрибьюторы",
+      "total": 7924648
+    },
+    {
+      "id": 16,
+      "type_id": 1,
+      "month": 3,
+      "quarter": 1,
+      "division_id": 4,
+      "division": "Core3D",
+      "total": 0
+    },
+    {
+      "id": 13,
+      "type_id": 1,
+      "month": 3,
+      "quarter": 1,
+      "division_id": 1,
+      "division": "АСКОН-Интеграция",
+      "total": 28485930
+    },
+    {
+      "id": 17,
+      "type_id": 1,
+      "month": 3,
+      "quarter": 1,
+      "division_id": 5,
+      "division": "Прочие",
+      "total": 6406950
+    },
+    {
+      "id": 20,
+      "type_id": 1,
+      "month": 4,
+      "quarter": 2,
+      "division_id": 2,
+      "division": "Партнеры \"А\"",
+      "total": 4443833
+    },
+    {
+      "id": 24,
+      "type_id": 1,
+      "month": 4,
+      "quarter": 2,
+      "division_id": 6,
+      "division": "Зарубежные рынки",
+      "total": 374710
+    },
+    {
+      "id": 21,
+      "type_id": 1,
+      "month": 4,
+      "quarter": 2,
+      "division_id": 3,
+      "division": "Дистрибьюторы",
+      "total": 5635891
+    },
+    {
+      "id": 22,
+      "type_id": 1,
+      "month": 4,
+      "quarter": 2,
+      "division_id": 4,
+      "division": "Core3D",
+      "total": 0
+    },
+    {
+      "id": 19,
+      "type_id": 1,
+      "month": 4,
+      "quarter": 2,
+      "division_id": 1,
+      "division": "АСКОН-Интеграция",
+      "total": 22954556
+    },
+    {
+      "id": 23,
+      "type_id": 1,
+      "month": 4,
+      "quarter": 2,
+      "division_id": 5,
+      "division": "Прочие",
+      "total": 3434600
+    },
+    {
+      "id": 26,
+      "type_id": 1,
+      "month": 5,
+      "quarter": 2,
+      "division_id": 2,
+      "division": "Партнеры \"А\"",
+      "total": 4615528
+    },
+    {
+      "id": 30,
+      "type_id": 1,
+      "month": 5,
+      "quarter": 2,
+      "division_id": 6,
+      "division": "Зарубежные рынки",
+      "total": 374710
+    },
+    {
+      "id": 27,
+      "type_id": 1,
+      "month": 5,
+      "quarter": 2,
+      "division_id": 3,
+      "division": "Дистрибьюторы",
+      "total": 5549171
+    },
+    {
+      "id": 28,
+      "type_id": 1,
+      "month": 5,
+      "quarter": 2,
+      "division_id": 4,
+      "division": "Core3D",
+      "total": 0
+    },
+    {
+      "id": 25,
+      "type_id": 1,
+      "month": 5,
+      "quarter": 2,
+      "division_id": 1,
+      "division": "АСКОН-Интеграция",
+      "total": 24682400
+    },
+    {
+      "id": 29,
+      "type_id": 1,
+      "month": 5,
+      "quarter": 2,
+      "division_id": 5,
+      "division": "Прочие",
+      "total": 3336700
+    },
+    {
+      "id": 32,
+      "type_id": 1,
+      "month": 6,
+      "quarter": 2,
+      "division_id": 2,
+      "division": "Партнеры \"А\"",
+      "total": 6084813
+    },
+    {
+      "id": 36,
+      "type_id": 1,
+      "month": 6,
+      "quarter": 2,
+      "division_id": 6,
+      "division": "Зарубежные рынки",
+      "total": 463240
+    },
+    {
+      "id": 33,
+      "type_id": 1,
+      "month": 6,
+      "quarter": 2,
+      "division_id": 3,
+      "division": "Дистрибьюторы",
+      "total": 6274157
+    },
+    {
+      "id": 34,
+      "type_id": 1,
+      "month": 6,
+      "quarter": 2,
+      "division_id": 4,
+      "division": "Core3D",
+      "total": 0
+    },
+    {
+      "id": 31,
+      "type_id": 1,
+      "month": 6,
+      "quarter": 2,
+      "division_id": 1,
+      "division": "АСКОН-Интеграция",
+      "total": 26228411
+    },
+    {
+      "id": 35,
+      "type_id": 1,
+      "month": 6,
+      "quarter": 2,
+      "division_id": 5,
+      "division": "Прочие",
+      "total": 5390050
+    },
+    {
+      "id": 38,
+      "type_id": 1,
+      "month": 7,
+      "quarter": 3,
+      "division_id": 2,
+      "division": "Партнеры \"А\"",
+      "total": 5249969
+    },
+    {
+      "id": 42,
+      "type_id": 1,
+      "month": 7,
+      "quarter": 3,
+      "division_id": 6,
+      "division": "Зарубежные рынки",
+      "total": 418975
+    },
+    {
+      "id": 39,
+      "type_id": 1,
+      "month": 7,
+      "quarter": 3,
+      "division_id": 3,
+      "division": "Дистрибьюторы",
+      "total": 5844031
+    },
+    {
+      "id": 40,
+      "type_id": 1,
+      "month": 7,
+      "quarter": 3,
+      "division_id": 4,
+      "division": "Core3D",
+      "total": 0
+    },
+    {
+      "id": 37,
+      "type_id": 1,
+      "month": 7,
+      "quarter": 3,
+      "division_id": 1,
+      "division": "АСКОН-Интеграция",
+      "total": 27768834
+    },
+    {
+      "id": 41,
+      "type_id": 1,
+      "month": 7,
+      "quarter": 3,
+      "division_id": 5,
+      "division": "Прочие",
+      "total": 2478100
+    },
+    {
+      "id": 44,
+      "type_id": 1,
+      "month": 8,
+      "quarter": 3,
+      "division_id": 2,
+      "division": "Партнеры \"А\"",
+      "total": 4377943
+    },
+    {
+      "id": 48,
+      "type_id": 1,
+      "month": 8,
+      "quarter": 3,
+      "division_id": 6,
+      "division": "Зарубежные рынки",
+      "total": 463240
+    },
+    {
+      "id": 45,
+      "type_id": 1,
+      "month": 8,
+      "quarter": 3,
+      "division_id": 3,
+      "division": "Дистрибьюторы",
+      "total": 6193261
+    },
+    {
+      "id": 46,
+      "type_id": 1,
+      "month": 8,
+      "quarter": 3,
+      "division_id": 4,
+      "division": "Core3D",
+      "total": 0
+    },
+    {
+      "id": 43,
+      "type_id": 1,
+      "month": 8,
+      "quarter": 3,
+      "division_id": 1,
+      "division": "АСКОН-Интеграция",
+      "total": 23693955
+    },
+    {
+      "id": 47,
+      "type_id": 1,
+      "month": 8,
+      "quarter": 3,
+      "division_id": 5,
+      "division": "Прочие",
+      "total": 2086050
+    },
+    {
+      "id": 50,
+      "type_id": 1,
+      "month": 9,
+      "quarter": 3,
+      "division_id": 2,
+      "division": "Партнеры \"А\"",
+      "total": 8253520
+    },
+    {
+      "id": 54,
+      "type_id": 1,
+      "month": 9,
+      "quarter": 3,
+      "division_id": 6,
+      "division": "Зарубежные рынки",
+      "total": 596035
+    },
+    {
+      "id": 51,
+      "type_id": 1,
+      "month": 9,
+      "quarter": 3,
+      "division_id": 3,
+      "division": "Дистрибьюторы",
+      "total": 6123610
+    },
+    {
+      "id": 52,
+      "type_id": 1,
+      "month": 9,
+      "quarter": 3,
+      "division_id": 4,
+      "division": "Core3D",
+      "total": 0
+    },
+    {
+      "id": 49,
+      "type_id": 1,
+      "month": 9,
+      "quarter": 3,
+      "division_id": 1,
+      "division": "АСКОН-Интеграция",
+      "total": 29335679
+    },
+    {
+      "id": 53,
+      "type_id": 1,
+      "month": 9,
+      "quarter": 3,
+      "division_id": 5,
+      "division": "Прочие",
+      "total": 3248050
+    },
+    {
+      "id": 56,
+      "type_id": 1,
+      "month": 10,
+      "quarter": 4,
+      "division_id": 2,
+      "division": "Партнеры \"А\"",
+      "total": 7897568
+    },
+    {
+      "id": 60,
+      "type_id": 1,
+      "month": 10,
+      "quarter": 4,
+      "division_id": 6,
+      "division": "Зарубежные рынки",
+      "total": 596035
+    },
+    {
+      "id": 57,
+      "type_id": 1,
+      "month": 10,
+      "quarter": 4,
+      "division_id": 3,
+      "division": "Дистрибьюторы",
+      "total": 10346932
+    },
+    {
+      "id": 58,
+      "type_id": 1,
+      "month": 10,
+      "quarter": 4,
+      "division_id": 4,
+      "division": "Core3D",
+      "total": 0
+    },
+    {
+      "id": 55,
+      "type_id": 1,
+      "month": 10,
+      "quarter": 4,
+      "division_id": 1,
+      "division": "АСКОН-Интеграция",
+      "total": 37552589
+    },
+    {
+      "id": 59,
+      "type_id": 1,
+      "month": 10,
+      "quarter": 4,
+      "division_id": 5,
+      "division": "Прочие",
+      "total": 4946050
+    },
+    {
+      "id": 62,
+      "type_id": 1,
+      "month": 11,
+      "quarter": 4,
+      "division_id": 2,
+      "division": "Партнеры \"А\"",
+      "total": 7653553
+    },
+    {
+      "id": 66,
+      "type_id": 1,
+      "month": 11,
+      "quarter": 4,
+      "division_id": 6,
+      "division": "Зарубежные рынки",
+      "total": 817360
+    },
+    {
+      "id": 63,
+      "type_id": 1,
+      "month": 11,
+      "quarter": 4,
+      "division_id": 3,
+      "division": "Дистрибьюторы",
+      "total": 10192803
+    },
+    {
+      "id": 64,
+      "type_id": 1,
+      "month": 11,
+      "quarter": 4,
+      "division_id": 4,
+      "division": "Core3D",
+      "total": 0
+    },
+    {
+      "id": 61,
+      "type_id": 1,
+      "month": 11,
+      "quarter": 4,
+      "division_id": 1,
+      "division": "АСКОН-Интеграция",
+      "total": 41417308
+    },
+    {
+      "id": 65,
+      "type_id": 1,
+      "month": 11,
+      "quarter": 4,
+      "division_id": 5,
+      "division": "Прочие",
+      "total": 4260000
+    },
+    {
+      "id": 68,
+      "type_id": 1,
+      "month": 12,
+      "quarter": 4,
+      "division_id": 2,
+      "division": "Партнеры \"А\"",
+      "total": 12128167
+    },
+    {
+      "id": 72,
+      "type_id": 1,
+      "month": 12,
+      "quarter": 4,
+      "division_id": 6,
+      "division": "Зарубежные рынки",
+      "total": 1192070
+    },
+    {
+      "id": 69,
+      "type_id": 1,
+      "month": 12,
+      "quarter": 4,
+      "division_id": 3,
+      "division": "Дистрибьюторы",
+      "total": 11742181
+    },
+    {
+      "id": 70,
+      "type_id": 1,
+      "month": 12,
+      "quarter": 4,
+      "division_id": 4,
+      "division": "Core3D",
+      "total": 0
+    },
+    {
+      "id": 67,
+      "type_id": 1,
+      "month": 12,
+      "quarter": 4,
+      "division_id": 1,
+      "division": "АСКОН-Интеграция",
+      "total": 57834761
+    },
+    {
+      "id": 71,
+      "type_id": 1,
+      "month": 12,
+      "quarter": 4,
+      "division_id": 5,
+      "division": "Прочие",
+      "total": 6603950
+    },
+    {
+      "id": 77,
+      "type_id": 2,
+      "month": 1,
+      "quarter": 1,
+      "division_id": 5,
+      "division": "Прочие",
+      "total": 0
+    },
+    {
+      "id": 74,
+      "type_id": 2,
+      "month": 1,
+      "quarter": 1,
+      "division_id": 2,
+      "division": "Партнеры \"А\"",
+      "total": 5252148
+    },
+    {
+      "id": 78,
+      "type_id": 2,
+      "month": 1,
+      "quarter": 1,
+      "division_id": 6,
+      "division": "Зарубежные рынки",
+      "total": 78968
+    },
+    {
+      "id": 75,
+      "type_id": 2,
+      "month": 1,
+      "quarter": 1,
+      "division_id": 3,
+      "division": "Дистрибьюторы",
+      "total": 17278156
+    },
+    {
+      "id": 76,
+      "type_id": 2,
+      "month": 1,
+      "quarter": 1,
+      "division_id": 4,
+      "division": "Core3D",
+      "total": 2491702
+    },
+    {
+      "id": 73,
+      "type_id": 2,
+      "month": 1,
+      "quarter": 1,
+      "division_id": 1,
+      "division": "АСКОН-Интеграция",
+      "total": 28446878
+    },
+    {
+      "id": 83,
+      "type_id": 2,
+      "month": 2,
+      "quarter": 1,
+      "division_id": 5,
+      "division": "Прочие",
+      "total": 0
+    },
+    {
+      "id": 80,
+      "type_id": 2,
+      "month": 2,
+      "quarter": 1,
+      "division_id": 2,
+      "division": "Партнеры \"А\"",
+      "total": 4894910
+    },
+    {
+      "id": 84,
+      "type_id": 2,
+      "month": 2,
+      "quarter": 1,
+      "division_id": 6,
+      "division": "Зарубежные рынки",
+      "total": 2442
+    },
+    {
+      "id": 81,
+      "type_id": 2,
+      "month": 2,
+      "quarter": 1,
+      "division_id": 3,
+      "division": "Дистрибьюторы",
+      "total": 5575443
+    },
+    {
+      "id": 82,
+      "type_id": 2,
+      "month": 2,
+      "quarter": 1,
+      "division_id": 4,
+      "division": "Core3D",
+      "total": 2455385
+    },
+    {
+      "id": 79,
+      "type_id": 2,
+      "month": 2,
+      "quarter": 1,
+      "division_id": 1,
+      "division": "АСКОН-Интеграция",
+      "total": 34878605
+    },
+    {
+      "id": 89,
+      "type_id": 2,
+      "month": 3,
+      "quarter": 1,
+      "division_id": 5,
+      "division": "Прочие",
+      "total": 8412
+    },
+    {
+      "id": 86,
+      "type_id": 2,
+      "month": 3,
+      "quarter": 1,
+      "division_id": 2,
+      "division": "Партнеры \"А\"",
+      "total": 6290341
+    },
+    {
+      "id": 90,
+      "type_id": 2,
+      "month": 3,
+      "quarter": 1,
+      "division_id": 6,
+      "division": "Зарубежные рынки",
+      "total": 0
+    },
+    {
+      "id": 87,
+      "type_id": 2,
+      "month": 3,
+      "quarter": 1,
+      "division_id": 3,
+      "division": "Дистрибьюторы",
+      "total": 7666573
+    },
+    {
+      "id": 88,
+      "type_id": 2,
+      "month": 3,
+      "quarter": 1,
+      "division_id": 4,
+      "division": "Core3D",
+      "total": 2438856
+    },
+    {
+      "id": 85,
+      "type_id": 2,
+      "month": 3,
+      "quarter": 1,
+      "division_id": 1,
+      "division": "АСКОН-Интеграция",
+      "total": 32411563
+    },
+    {
+      "id": 95,
+      "type_id": 2,
+      "month": 4,
+      "quarter": 2,
+      "division_id": 5,
+      "division": "Прочие",
+      "total": 0
+    },
+    {
+      "id": 92,
+      "type_id": 2,
+      "month": 4,
+      "quarter": 2,
+      "division_id": 2,
+      "division": "Партнеры \"А\"",
+      "total": 4171299
+    },
+    {
+      "id": 96,
+      "type_id": 2,
+      "month": 4,
+      "quarter": 2,
+      "division_id": 6,
+      "division": "Зарубежные рынки",
+      "total": 0
+    },
+    {
+      "id": 93,
+      "type_id": 2,
+      "month": 4,
+      "quarter": 2,
+      "division_id": 3,
+      "division": "Дистрибьюторы",
+      "total": 7158566
+    },
+    {
+      "id": 94,
+      "type_id": 2,
+      "month": 4,
+      "quarter": 2,
+      "division_id": 4,
+      "division": "Core3D",
+      "total": 259600
+    },
+    {
+      "id": 91,
+      "type_id": 2,
+      "month": 4,
+      "quarter": 2,
+      "division_id": 1,
+      "division": "АСКОН-Интеграция",
+      "total": 27043923
+    },
+    {
+      "id": 101,
+      "type_id": 2,
+      "month": 5,
+      "quarter": 2,
+      "division_id": 5,
+      "division": "Прочие",
+      "total": 0
+    },
+    {
+      "id": 98,
+      "type_id": 2,
+      "month": 5,
+      "quarter": 2,
+      "division_id": 2,
+      "division": "Партнеры \"А\"",
+      "total": 2280795
+    },
+    {
+      "id": 102,
+      "type_id": 2,
+      "month": 5,
+      "quarter": 2,
+      "division_id": 6,
+      "division": "Зарубежные рынки",
+      "total": 0
+    },
+    {
+      "id": 99,
+      "type_id": 2,
+      "month": 5,
+      "quarter": 2,
+      "division_id": 3,
+      "division": "Дистрибьюторы",
+      "total": 7865483
+    },
+    {
+      "id": 100,
+      "type_id": 2,
+      "month": 5,
+      "quarter": 2,
+      "division_id": 4,
+      "division": "Core3D",
+      "total": 3435924
+    },
+    {
+      "id": 97,
+      "type_id": 2,
+      "month": 5,
+      "quarter": 2,
+      "division_id": 1,
+      "division": "АСКОН-Интеграция",
+      "total": 29394315
+    },
+    {
+      "id": 107,
+      "type_id": 2,
+      "month": 6,
+      "quarter": 2,
+      "division_id": 5,
+      "division": "Прочие",
+      "total": 312000
+    },
+    {
+      "id": 104,
+      "type_id": 2,
+      "month": 6,
+      "quarter": 2,
+      "division_id": 2,
+      "division": "Партнеры \"А\"",
+      "total": 7828261
+    },
+    {
+      "id": 108,
+      "type_id": 2,
+      "month": 6,
+      "quarter": 2,
+      "division_id": 6,
+      "division": "Зарубежные рынки",
+      "total": 133758
+    },
+    {
+      "id": 105,
+      "type_id": 2,
+      "month": 6,
+      "quarter": 2,
+      "division_id": 3,
+      "division": "Дистрибьюторы",
+      "total": 7232687
+    },
+    {
+      "id": 106,
+      "type_id": 2,
+      "month": 6,
+      "quarter": 2,
+      "division_id": 4,
+      "division": "Core3D",
+      "total": 73921
+    },
+    {
+      "id": 103,
+      "type_id": 2,
+      "month": 6,
+      "quarter": 2,
+      "division_id": 1,
+      "division": "АСКОН-Интеграция",
+      "total": 39093492
+    },
+    {
+      "id": 113,
+      "type_id": 2,
+      "month": 7,
+      "quarter": 3,
+      "division_id": 5,
+      "division": "Прочие",
+      "total": 162219
+    },
+    {
+      "id": 110,
+      "type_id": 2,
+      "month": 7,
+      "quarter": 3,
+      "division_id": 2,
+      "division": "Партнеры \"А\"",
+      "total": 3126669
+    },
+    {
+      "id": 114,
+      "type_id": 2,
+      "month": 7,
+      "quarter": 3,
+      "division_id": 6,
+      "division": "Зарубежные рынки",
+      "total": 0
+    },
+    {
+      "id": 111,
+      "type_id": 2,
+      "month": 7,
+      "quarter": 3,
+      "division_id": 3,
+      "division": "Дистрибьюторы",
+      "total": 7061085
+    },
+    {
+      "id": 112,
+      "type_id": 2,
+      "month": 7,
+      "quarter": 3,
+      "division_id": 4,
+      "division": "Core3D",
+      "total": 845810
+    },
+    {
+      "id": 109,
+      "type_id": 2,
+      "month": 7,
+      "quarter": 3,
+      "division_id": 1,
+      "division": "АСКОН-Интеграция",
+      "total": 32292796
+    },
+    {
+      "id": 119,
+      "type_id": 2,
+      "month": 8,
+      "quarter": 3,
+      "division_id": 5,
+      "division": "Прочие",
+      "total": 0
+    },
+    {
+      "id": 116,
+      "type_id": 2,
+      "month": 8,
+      "quarter": 3,
+      "division_id": 2,
+      "division": "Партнеры \"А\"",
+      "total": 3707733
+    },
+    {
+      "id": 120,
+      "type_id": 2,
+      "month": 8,
+      "quarter": 3,
+      "division_id": 6,
+      "division": "Зарубежные рынки",
+      "total": 0
+    },
+    {
+      "id": 117,
+      "type_id": 2,
+      "month": 8,
+      "quarter": 3,
+      "division_id": 3,
+      "division": "Дистрибьюторы",
+      "total": 6645575
+    },
+    {
+      "id": 118,
+      "type_id": 2,
+      "month": 8,
+      "quarter": 3,
+      "division_id": 4,
+      "division": "Core3D",
+      "total": 2318800
+    },
+    {
+      "id": 115,
+      "type_id": 2,
+      "month": 8,
+      "quarter": 3,
+      "division_id": 1,
+      "division": "АСКОН-Интеграция",
+      "total": 20785747
+    },
+    {
+      "id": 125,
+      "type_id": 2,
+      "month": 9,
+      "quarter": 3,
+      "division_id": 5,
+      "division": "Прочие",
+      "total": 0
+    },
+    {
+      "id": 122,
+      "type_id": 2,
+      "month": 9,
+      "quarter": 3,
+      "division_id": 2,
+      "division": "Партнеры \"А\"",
+      "total": 14076842
+    },
+    {
+      "id": 126,
+      "type_id": 2,
+      "month": 9,
+      "quarter": 3,
+      "division_id": 6,
+      "division": "Зарубежные рынки",
+      "total": 408522
+    },
+    {
+      "id": 123,
+      "type_id": 2,
+      "month": 9,
+      "quarter": 3,
+      "division_id": 3,
+      "division": "Дистрибьюторы",
+      "total": 5601308
+    },
+    {
+      "id": 124,
+      "type_id": 2,
+      "month": 9,
+      "quarter": 3,
+      "division_id": 4,
+      "division": "Core3D",
+      "total": 1150000
+    },
+    {
+      "id": 121,
+      "type_id": 2,
+      "month": 9,
+      "quarter": 3,
+      "division_id": 1,
+      "division": "АСКОН-Интеграция",
+      "total": 37537728
+    },
+    {
+      "id": 131,
+      "type_id": 2,
+      "month": 10,
+      "quarter": 4,
+      "division_id": 5,
+      "division": "Прочие",
+      "total": 0
+    },
+    {
+      "id": 128,
+      "type_id": 2,
+      "month": 10,
+      "quarter": 4,
+      "division_id": 2,
+      "division": "Партнеры \"А\"",
+      "total": 3852913
+    },
+    {
+      "id": 132,
+      "type_id": 2,
+      "month": 10,
+      "quarter": 4,
+      "division_id": 6,
+      "division": "Зарубежные рынки",
+      "total": 701373
+    },
+    {
+      "id": 129,
+      "type_id": 2,
+      "month": 10,
+      "quarter": 4,
+      "division_id": 3,
+      "division": "Дистрибьюторы",
+      "total": 5770858
+    },
+    {
+      "id": 130,
+      "type_id": 2,
+      "month": 10,
+      "quarter": 4,
+      "division_id": 4,
+      "division": "Core3D",
+      "total": 588660
+    },
+    {
+      "id": 127,
+      "type_id": 2,
+      "month": 10,
+      "quarter": 4,
+      "division_id": 1,
+      "division": "АСКОН-Интеграция",
+      "total": 82731204
+    },
+    {
+      "id": 137,
+      "type_id": 2,
+      "month": 11,
+      "quarter": 4,
+      "division_id": 5,
+      "division": "Прочие",
+      "total": 0
+    },
+    {
+      "id": 134,
+      "type_id": 2,
+      "month": 11,
+      "quarter": 4,
+      "division_id": 2,
+      "division": "Партнеры \"А\"",
+      "total": 13549190
+    },
+    {
+      "id": 138,
+      "type_id": 2,
+      "month": 11,
+      "quarter": 4,
+      "division_id": 6,
+      "division": "Зарубежные рынки",
+      "total": 645143
+    },
+    {
+      "id": 135,
+      "type_id": 2,
+      "month": 11,
+      "quarter": 4,
+      "division_id": 3,
+      "division": "Дистрибьюторы",
+      "total": 7473019
+    },
+    {
+      "id": 136,
+      "type_id": 2,
+      "month": 11,
+      "quarter": 4,
+      "division_id": 4,
+      "division": "Core3D",
+      "total": 6040103
+    },
+    {
+      "id": 133,
+      "type_id": 2,
+      "month": 11,
+      "quarter": 4,
+      "division_id": 1,
+      "division": "АСКОН-Интеграция",
+      "total": 51697458
+    },
+    {
+      "id": 143,
+      "type_id": 2,
+      "month": 12,
+      "quarter": 4,
+      "division_id": 5,
+      "division": "Прочие",
+      "total": 0
+    },
+    {
+      "id": 140,
+      "type_id": 2,
+      "month": 12,
+      "quarter": 4,
+      "division_id": 2,
+      "division": "Партнеры \"А\"",
+      "total": 9408007
+    },
+    {
+      "id": 144,
+      "type_id": 2,
+      "month": 12,
+      "quarter": 4,
+      "division_id": 6,
+      "division": "Зарубежные рынки",
+      "total": 0
+    },
+    {
+      "id": 141,
+      "type_id": 2,
+      "month": 12,
+      "quarter": 4,
+      "division_id": 3,
+      "division": "Дистрибьюторы",
+      "total": 8321394
+    },
+    {
+      "id": 142,
+      "type_id": 2,
+      "month": 12,
+      "quarter": 4,
+      "division_id": 4,
+      "division": "Core3D",
+      "total": 2280406
+    },
+    {
+      "id": 139,
+      "type_id": 2,
+      "month": 12,
+      "quarter": 4,
+      "division_id": 1,
+      "division": "АСКОН-Интеграция",
+      "total": 88579118
+    }
+  ],
+  "2021": [
+    {
+      "id": 294,
+      "type_id": 1,
+      "month": 1,
+      "quarter": 1,
+      "division_id": 6,
+      "division": "Зарубежные рынки",
+      "total": 61354
+    },
+    {
+      "id": 291,
+      "type_id": 1,
+      "month": 1,
+      "quarter": 1,
+      "division_id": 3,
+      "division": "Дистрибьюторы",
+      "total": 12370798
+    },
+    {
+      "id": 292,
+      "type_id": 1,
+      "month": 1,
+      "quarter": 1,
+      "division_id": 4,
+      "division": "Core3D",
+      "total": 3525000
+    },
+    {
+      "id": 289,
+      "type_id": 1,
+      "month": 1,
+      "quarter": 1,
+      "division_id": 1,
+      "division": "АСКОН-Интеграция",
+      "total": 32287124
+    },
+    {
+      "id": 293,
+      "type_id": 1,
+      "month": 1,
+      "quarter": 1,
+      "division_id": 5,
+      "division": "Прочие",
+      "total": 0
+    },
+    {
+      "id": 290,
+      "type_id": 1,
+      "month": 1,
+      "quarter": 1,
+      "division_id": 2,
+      "division": "Партнеры \"А\"",
+      "total": 5680943
+    },
+    {
+      "id": 300,
+      "type_id": 1,
+      "month": 2,
+      "quarter": 1,
+      "division_id": 6,
+      "division": "Зарубежные рынки",
+      "total": 30677
+    },
+    {
+      "id": 297,
+      "type_id": 1,
+      "month": 2,
+      "quarter": 1,
+      "division_id": 3,
+      "division": "Дистрибьюторы",
+      "total": 5431257
+    },
+    {
+      "id": 298,
+      "type_id": 1,
+      "month": 2,
+      "quarter": 1,
+      "division_id": 4,
+      "division": "Core3D",
+      "total": 3307500
+    },
+    {
+      "id": 295,
+      "type_id": 1,
+      "month": 2,
+      "quarter": 1,
+      "division_id": 1,
+      "division": "АСКОН-Интеграция",
+      "total": 29473075
+    },
+    {
+      "id": 299,
+      "type_id": 1,
+      "month": 2,
+      "quarter": 1,
+      "division_id": 5,
+      "division": "Прочие",
+      "total": 0
+    },
+    {
+      "id": 296,
+      "type_id": 1,
+      "month": 2,
+      "quarter": 1,
+      "division_id": 2,
+      "division": "Партнеры \"А\"",
+      "total": 12027481
+    },
+    {
+      "id": 302,
+      "type_id": 1,
+      "month": 3,
+      "quarter": 1,
+      "division_id": 2,
+      "division": "Партнеры \"А\"",
+      "total": 7414144
+    },
+    {
+      "id": 306,
+      "type_id": 1,
+      "month": 3,
+      "quarter": 1,
+      "division_id": 6,
+      "division": "Зарубежные рынки",
+      "total": 120000
+    },
+    {
+      "id": 303,
+      "type_id": 1,
+      "month": 3,
+      "quarter": 1,
+      "division_id": 3,
+      "division": "Дистрибьюторы",
+      "total": 6282793
+    },
+    {
+      "id": 304,
+      "type_id": 1,
+      "month": 3,
+      "quarter": 1,
+      "division_id": 4,
+      "division": "Core3D",
+      "total": 1743125
+    },
+    {
+      "id": 301,
+      "type_id": 1,
+      "month": 3,
+      "quarter": 1,
+      "division_id": 1,
+      "division": "АСКОН-Интеграция",
+      "total": 35106617
+    },
+    {
+      "id": 305,
+      "type_id": 1,
+      "month": 3,
+      "quarter": 1,
+      "division_id": 5,
+      "division": "Прочие",
+      "total": 0
+    },
+    {
+      "id": 308,
+      "type_id": 1,
+      "month": 4,
+      "quarter": 2,
+      "division_id": 2,
+      "division": "Партнеры \"А\"",
+      "total": 6744562
+    },
+    {
+      "id": 312,
+      "type_id": 1,
+      "month": 4,
+      "quarter": 2,
+      "division_id": 6,
+      "division": "Зарубежные рынки",
+      "total": 120000
+    },
+    {
+      "id": 309,
+      "type_id": 1,
+      "month": 4,
+      "quarter": 2,
+      "division_id": 3,
+      "division": "Дистрибьюторы",
+      "total": 8168420
+    },
+    {
+      "id": 310,
+      "type_id": 1,
+      "month": 4,
+      "quarter": 2,
+      "division_id": 4,
+      "division": "Core3D",
+      "total": 2825000
+    },
+    {
+      "id": 307,
+      "type_id": 1,
+      "month": 4,
+      "quarter": 2,
+      "division_id": 1,
+      "division": "АСКОН-Интеграция",
+      "total": 25173977
+    },
+    {
+      "id": 311,
+      "type_id": 1,
+      "month": 4,
+      "quarter": 2,
+      "division_id": 5,
+      "division": "Прочие",
+      "total": 350000
+    },
+    {
+      "id": 314,
+      "type_id": 1,
+      "month": 5,
+      "quarter": 2,
+      "division_id": 2,
+      "division": "Партнеры \"А\"",
+      "total": 6216709
+    },
+    {
+      "id": 318,
+      "type_id": 1,
+      "month": 5,
+      "quarter": 2,
+      "division_id": 6,
+      "division": "Зарубежные рынки",
+      "total": 0
+    },
+    {
+      "id": 315,
+      "type_id": 1,
+      "month": 5,
+      "quarter": 2,
+      "division_id": 3,
+      "division": "Дистрибьюторы",
+      "total": 8168420
+    },
+    {
+      "id": 316,
+      "type_id": 1,
+      "month": 5,
+      "quarter": 2,
+      "division_id": 4,
+      "division": "Core3D",
+      "total": 1267500
+    },
+    {
+      "id": 313,
+      "type_id": 1,
+      "month": 5,
+      "quarter": 2,
+      "division_id": 1,
+      "division": "АСКОН-Интеграция",
+      "total": 25925760
+    },
+    {
+      "id": 317,
+      "type_id": 1,
+      "month": 5,
+      "quarter": 2,
+      "division_id": 5,
+      "division": "Прочие",
+      "total": 0
+    },
+    {
+      "id": 320,
+      "type_id": 1,
+      "month": 6,
+      "quarter": 2,
+      "division_id": 2,
+      "division": "Партнеры \"А\"",
+      "total": 9309127
+    },
+    {
+      "id": 324,
+      "type_id": 1,
+      "month": 6,
+      "quarter": 2,
+      "division_id": 6,
+      "division": "Зарубежные рынки",
+      "total": 300000
+    },
+    {
+      "id": 321,
+      "type_id": 1,
+      "month": 6,
+      "quarter": 2,
+      "division_id": 3,
+      "division": "Дистрибьюторы",
+      "total": 9359306
+    },
+    {
+      "id": 322,
+      "type_id": 1,
+      "month": 6,
+      "quarter": 2,
+      "division_id": 4,
+      "division": "Core3D",
+      "total": 4390000
+    },
+    {
+      "id": 319,
+      "type_id": 1,
+      "month": 6,
+      "quarter": 2,
+      "division_id": 1,
+      "division": "АСКОН-Интеграция",
+      "total": 38151785
+    },
+    {
+      "id": 323,
+      "type_id": 1,
+      "month": 6,
+      "quarter": 2,
+      "division_id": 5,
+      "division": "Прочие",
+      "total": 350000
+    },
+    {
+      "id": 326,
+      "type_id": 1,
+      "month": 7,
+      "quarter": 3,
+      "division_id": 2,
+      "division": "Партнеры \"А\"",
+      "total": 7112575
+    },
+    {
+      "id": 330,
+      "type_id": 1,
+      "month": 7,
+      "quarter": 3,
+      "division_id": 6,
+      "division": "Зарубежные рынки",
+      "total": 0
+    },
+    {
+      "id": 327,
+      "type_id": 1,
+      "month": 7,
+      "quarter": 3,
+      "division_id": 3,
+      "division": "Дистрибьюторы",
+      "total": 8016620
+    },
+    {
+      "id": 328,
+      "type_id": 1,
+      "month": 7,
+      "quarter": 3,
+      "division_id": 4,
+      "division": "Core3D",
+      "total": 2300000
+    },
+    {
+      "id": 325,
+      "type_id": 1,
+      "month": 7,
+      "quarter": 3,
+      "division_id": 1,
+      "division": "АСКОН-Интеграция",
+      "total": 33980522
+    },
+    {
+      "id": 329,
+      "type_id": 1,
+      "month": 7,
+      "quarter": 3,
+      "division_id": 5,
+      "division": "Прочие",
+      "total": 0
+    },
+    {
+      "id": 332,
+      "type_id": 1,
+      "month": 8,
+      "quarter": 3,
+      "division_id": 2,
+      "division": "Партнеры \"А\"",
+      "total": 6803184
+    },
+    {
+      "id": 336,
+      "type_id": 1,
+      "month": 8,
+      "quarter": 3,
+      "division_id": 6,
+      "division": "Зарубежные рынки",
+      "total": 0
+    },
+    {
+      "id": 333,
+      "type_id": 1,
+      "month": 8,
+      "quarter": 3,
+      "division_id": 3,
+      "division": "Дистрибьюторы",
+      "total": 8270716
+    },
+    {
+      "id": 334,
+      "type_id": 1,
+      "month": 8,
+      "quarter": 3,
+      "division_id": 4,
+      "division": "Core3D",
+      "total": 311500
+    },
+    {
+      "id": 331,
+      "type_id": 1,
+      "month": 8,
+      "quarter": 3,
+      "division_id": 1,
+      "division": "АСКОН-Интеграция",
+      "total": 25958585
+    },
+    {
+      "id": 335,
+      "type_id": 1,
+      "month": 8,
+      "quarter": 3,
+      "division_id": 5,
+      "division": "Прочие",
+      "total": 0
+    },
+    {
+      "id": 338,
+      "type_id": 1,
+      "month": 9,
+      "quarter": 3,
+      "division_id": 2,
+      "division": "Партнеры \"А\"",
+      "total": 11142254
+    },
+    {
+      "id": 342,
+      "type_id": 1,
+      "month": 9,
+      "quarter": 3,
+      "division_id": 6,
+      "division": "Зарубежные рынки",
+      "total": 300000
+    },
+    {
+      "id": 339,
+      "type_id": 1,
+      "month": 9,
+      "quarter": 3,
+      "division_id": 3,
+      "division": "Дистрибьюторы",
+      "total": 9286934
+    },
+    {
+      "id": 340,
+      "type_id": 1,
+      "month": 9,
+      "quarter": 3,
+      "division_id": 4,
+      "division": "Core3D",
+      "total": 770000
+    },
+    {
+      "id": 337,
+      "type_id": 1,
+      "month": 9,
+      "quarter": 3,
+      "division_id": 1,
+      "division": "АСКОН-Интеграция",
+      "total": 34901045
+    },
+    {
+      "id": 341,
+      "type_id": 1,
+      "month": 9,
+      "quarter": 3,
+      "division_id": 5,
+      "division": "Прочие",
+      "total": 0
+    },
+    {
+      "id": 344,
+      "type_id": 1,
+      "month": 10,
+      "quarter": 4,
+      "division_id": 2,
+      "division": "Партнеры \"А\"",
+      "total": 10039325
+    },
+    {
+      "id": 348,
+      "type_id": 1,
+      "month": 10,
+      "quarter": 4,
+      "division_id": 6,
+      "division": "Зарубежные рынки",
+      "total": 120000
+    },
+    {
+      "id": 345,
+      "type_id": 1,
+      "month": 10,
+      "quarter": 4,
+      "division_id": 3,
+      "division": "Дистрибьюторы",
+      "total": 10022884
+    },
+    {
+      "id": 346,
+      "type_id": 1,
+      "month": 10,
+      "quarter": 4,
+      "division_id": 4,
+      "division": "Core3D",
+      "total": 4304000
+    },
+    {
+      "id": 343,
+      "type_id": 1,
+      "month": 10,
+      "quarter": 4,
+      "division_id": 1,
+      "division": "АСКОН-Интеграция",
+      "total": 46770563
+    },
+    {
+      "id": 347,
+      "type_id": 1,
+      "month": 10,
+      "quarter": 4,
+      "division_id": 5,
+      "division": "Прочие",
+      "total": 1050000
+    },
+    {
+      "id": 350,
+      "type_id": 1,
+      "month": 11,
+      "quarter": 4,
+      "division_id": 2,
+      "division": "Партнеры \"А\"",
+      "total": 10753805
+    },
+    {
+      "id": 354,
+      "type_id": 1,
+      "month": 11,
+      "quarter": 4,
+      "division_id": 6,
+      "division": "Зарубежные рынки",
+      "total": 180000
+    },
+    {
+      "id": 351,
+      "type_id": 1,
+      "month": 11,
+      "quarter": 4,
+      "division_id": 3,
+      "division": "Дистрибьюторы",
+      "total": 10022884
+    },
+    {
+      "id": 352,
+      "type_id": 1,
+      "month": 11,
+      "quarter": 4,
+      "division_id": 4,
+      "division": "Core3D",
+      "total": 1683750
+    },
+    {
+      "id": 349,
+      "type_id": 1,
+      "month": 11,
+      "quarter": 4,
+      "division_id": 1,
+      "division": "АСКОН-Интеграция",
+      "total": 51797613
+    },
+    {
+      "id": 353,
+      "type_id": 1,
+      "month": 11,
+      "quarter": 4,
+      "division_id": 5,
+      "division": "Прочие",
+      "total": 1050000
+    },
+    {
+      "id": 356,
+      "type_id": 1,
+      "month": 12,
+      "quarter": 4,
+      "division_id": 2,
+      "division": "Партнеры \"А\"",
+      "total": 15405136
+    },
+    {
+      "id": 360,
+      "type_id": 1,
+      "month": 12,
+      "quarter": 4,
+      "division_id": 6,
+      "division": "Зарубежные рынки",
+      "total": 300000
+    },
+    {
+      "id": 357,
+      "type_id": 1,
+      "month": 12,
+      "quarter": 4,
+      "division_id": 3,
+      "division": "Дистрибьюторы",
+      "total": 11725360
+    },
+    {
+      "id": 358,
+      "type_id": 1,
+      "month": 12,
+      "quarter": 4,
+      "division_id": 4,
+      "division": "Core3D",
+      "total": 2325000
+    },
+    {
+      "id": 355,
+      "type_id": 1,
+      "month": 12,
+      "quarter": 4,
+      "division_id": 1,
+      "division": "АСКОН-Интеграция",
+      "total": 72355561
+    },
+    {
+      "id": 359,
+      "type_id": 1,
+      "month": 12,
+      "quarter": 4,
+      "division_id": 5,
+      "division": "Прочие",
+      "total": 1750000
+    },
+    {
+      "id": 365,
+      "type_id": 2,
+      "month": 1,
+      "quarter": 1,
+      "division_id": 5,
+      "division": "Прочие",
+      "total": 0
+    },
+    {
+      "id": 362,
+      "type_id": 2,
+      "month": 1,
+      "quarter": 1,
+      "division_id": 2,
+      "division": "Партнеры \"А\"",
+      "total": 5868615
+    },
+    {
+      "id": 366,
+      "type_id": 2,
+      "month": 1,
+      "quarter": 1,
+      "division_id": 6,
+      "division": "Зарубежные рынки",
+      "total": 64546
+    },
+    {
+      "id": 363,
+      "type_id": 2,
+      "month": 1,
+      "quarter": 1,
+      "division_id": 3,
+      "division": "Дистрибьюторы",
+      "total": 11792964
+    },
+    {
+      "id": 364,
+      "type_id": 2,
+      "month": 1,
+      "quarter": 1,
+      "division_id": 4,
+      "division": "Core3D",
+      "total": 3605525
+    },
+    {
+      "id": 361,
+      "type_id": 2,
+      "month": 1,
+      "quarter": 1,
+      "division_id": 1,
+      "division": "АСКОН-Интеграция",
+      "total": 31854018
+    },
+    {
+      "id": 371,
+      "type_id": 2,
+      "month": 2,
+      "quarter": 1,
+      "division_id": 5,
+      "division": "Прочие",
+      "total": 2400000
+    },
+    {
+      "id": 368,
+      "type_id": 2,
+      "month": 2,
+      "quarter": 1,
+      "division_id": 2,
+      "division": "Партнеры \"А\"",
+      "total": 12014627
+    },
+    {
+      "id": 372,
+      "type_id": 2,
+      "month": 2,
+      "quarter": 1,
+      "division_id": 6,
+      "division": "Зарубежные рынки",
+      "total": 31693
+    },
+    {
+      "id": 369,
+      "type_id": 2,
+      "month": 2,
+      "quarter": 1,
+      "division_id": 3,
+      "division": "Дистрибьюторы",
+      "total": 5959295
+    },
+    {
+      "id": 370,
+      "type_id": 2,
+      "month": 2,
+      "quarter": 1,
+      "division_id": 4,
+      "division": "Core3D",
+      "total": 3421877
+    },
+    {
+      "id": 367,
+      "type_id": 2,
+      "month": 2,
+      "quarter": 1,
+      "division_id": 1,
+      "division": "АСКОН-Интеграция",
+      "total": 28295966
+    },
+    {
+      "id": 377,
+      "type_id": 2,
+      "month": 3,
+      "quarter": 1,
+      "division_id": 5,
+      "division": "Прочие",
+      "total": 0
+    },
+    {
+      "id": 374,
+      "type_id": 2,
+      "month": 3,
+      "quarter": 1,
+      "division_id": 2,
+      "division": "Партнеры \"А\"",
+      "total": 7017498
+    },
+    {
+      "id": 378,
+      "type_id": 2,
+      "month": 3,
+      "quarter": 1,
+      "division_id": 6,
+      "division": "Зарубежные рынки",
+      "total": 318102
+    },
+    {
+      "id": 375,
+      "type_id": 2,
+      "month": 3,
+      "quarter": 1,
+      "division_id": 3,
+      "division": "Дистрибьюторы",
+      "total": 8523336
+    },
+    {
+      "id": 376,
+      "type_id": 2,
+      "month": 3,
+      "quarter": 1,
+      "division_id": 4,
+      "division": "Core3D",
+      "total": 2039572
+    },
+    {
+      "id": 373,
+      "type_id": 2,
+      "month": 3,
+      "quarter": 1,
+      "division_id": 1,
+      "division": "АСКОН-Интеграция",
+      "total": 43343075
+    },
+    {
+      "id": 383,
+      "type_id": 2,
+      "month": 4,
+      "quarter": 2,
+      "division_id": 5,
+      "division": "Прочие",
+      "total": 0
+    },
+    {
+      "id": 380,
+      "type_id": 2,
+      "month": 4,
+      "quarter": 2,
+      "division_id": 2,
+      "division": "Партнеры \"А\"",
+      "total": 5539428
+    },
+    {
+      "id": 384,
+      "type_id": 2,
+      "month": 4,
+      "quarter": 2,
+      "division_id": 6,
+      "division": "Зарубежные рынки",
+      "total": 0
+    },
+    {
+      "id": 381,
+      "type_id": 2,
+      "month": 4,
+      "quarter": 2,
+      "division_id": 3,
+      "division": "Дистрибьюторы",
+      "total": 8348538
+    },
+    {
+      "id": 382,
+      "type_id": 2,
+      "month": 4,
+      "quarter": 2,
+      "division_id": 4,
+      "division": "Core3D",
+      "total": 3454989
+    },
+    {
+      "id": 379,
+      "type_id": 2,
+      "month": 4,
+      "quarter": 2,
+      "division_id": 1,
+      "division": "АСКОН-Интеграция",
+      "total": 52322823
+    },
+    {
+      "id": 389,
+      "type_id": 2,
+      "month": 5,
+      "quarter": 2,
+      "division_id": 5,
+      "division": "Прочие",
+      "total": 0
+    },
+    {
+      "id": 386,
+      "type_id": 2,
+      "month": 5,
+      "quarter": 2,
+      "division_id": 2,
+      "division": "Партнеры \"А\"",
+      "total": 23464884
+    },
+    {
+      "id": 390,
+      "type_id": 2,
+      "month": 5,
+      "quarter": 2,
+      "division_id": 6,
+      "division": "Зарубежные рынки",
+      "total": 717824
+    },
+    {
+      "id": 387,
+      "type_id": 2,
+      "month": 5,
+      "quarter": 2,
+      "division_id": 3,
+      "division": "Дистрибьюторы",
+      "total": 6507551
+    },
+    {
+      "id": 388,
+      "type_id": 2,
+      "month": 5,
+      "quarter": 2,
+      "division_id": 4,
+      "division": "Core3D",
+      "total": 0
+    },
+    {
+      "id": 385,
+      "type_id": 2,
+      "month": 5,
+      "quarter": 2,
+      "division_id": 1,
+      "division": "АСКОН-Интеграция",
+      "total": 54757659
+    },
+    {
+      "id": 395,
+      "type_id": 2,
+      "month": 6,
+      "quarter": 2,
+      "division_id": 5,
+      "division": "Прочие",
+      "total": 0
+    },
+    {
+      "id": 392,
+      "type_id": 2,
+      "month": 6,
+      "quarter": 2,
+      "division_id": 2,
+      "division": "Партнеры \"А\"",
+      "total": 9581248
+    },
+    {
+      "id": 396,
+      "type_id": 2,
+      "month": 6,
+      "quarter": 2,
+      "division_id": 6,
+      "division": "Зарубежные рынки",
+      "total": 281367
+    },
+    {
+      "id": 393,
+      "type_id": 2,
+      "month": 6,
+      "quarter": 2,
+      "division_id": 3,
+      "division": "Дистрибьюторы",
+      "total": 6816211
+    },
+    {
+      "id": 394,
+      "type_id": 2,
+      "month": 6,
+      "quarter": 2,
+      "division_id": 4,
+      "division": "Core3D",
+      "total": 4801671
+    },
+    {
+      "id": 391,
+      "type_id": 2,
+      "month": 6,
+      "quarter": 2,
+      "division_id": 1,
+      "division": "АСКОН-Интеграция",
+      "total": 54137273
+    },
+    {
+      "id": 401,
+      "type_id": 2,
+      "month": 7,
+      "quarter": 3,
+      "division_id": 5,
+      "division": "Прочие",
+      "total": 0
+    },
+    {
+      "id": 398,
+      "type_id": 2,
+      "month": 7,
+      "quarter": 3,
+      "division_id": 2,
+      "division": "Партнеры \"А\"",
+      "total": 7095136
+    },
+    {
+      "id": 402,
+      "type_id": 2,
+      "month": 7,
+      "quarter": 3,
+      "division_id": 6,
+      "division": "Зарубежные рынки",
+      "total": 10950
+    },
+    {
+      "id": 399,
+      "type_id": 2,
+      "month": 7,
+      "quarter": 3,
+      "division_id": 3,
+      "division": "Дистрибьюторы",
+      "total": 12474750
+    },
+    {
+      "id": 400,
+      "type_id": 2,
+      "month": 7,
+      "quarter": 3,
+      "division_id": 4,
+      "division": "Core3D",
+      "total": 5848467
+    },
+    {
+      "id": 397,
+      "type_id": 2,
+      "month": 7,
+      "quarter": 3,
+      "division_id": 1,
+      "division": "АСКОН-Интеграция",
+      "total": 49399421
+    },
+    {
+      "id": 407,
+      "type_id": 2,
+      "month": 8,
+      "quarter": 3,
+      "division_id": 5,
+      "division": "Прочие",
+      "total": 0
+    },
+    {
+      "id": 404,
+      "type_id": 2,
+      "month": 8,
+      "quarter": 3,
+      "division_id": 2,
+      "division": "Партнеры \"А\"",
+      "total": 12632420
+    },
+    {
+      "id": 408,
+      "type_id": 2,
+      "month": 8,
+      "quarter": 3,
+      "division_id": 6,
+      "division": "Зарубежные рынки",
+      "total": 61635
+    },
+    {
+      "id": 405,
+      "type_id": 2,
+      "month": 8,
+      "quarter": 3,
+      "division_id": 3,
+      "division": "Дистрибьюторы",
+      "total": 8243005
+    },
+    {
+      "id": 406,
+      "type_id": 2,
+      "month": 8,
+      "quarter": 3,
+      "division_id": 4,
+      "division": "Core3D",
+      "total": 1660000
+    },
+    {
+      "id": 403,
+      "type_id": 2,
+      "month": 8,
+      "quarter": 3,
+      "division_id": 1,
+      "division": "АСКОН-Интеграция",
+      "total": 86443508
+    },
+    {
+      "id": 413,
+      "type_id": 2,
+      "month": 9,
+      "quarter": 3,
+      "division_id": 5,
+      "division": "Прочие",
+      "total": 0
+    },
+    {
+      "id": 410,
+      "type_id": 2,
+      "month": 9,
+      "quarter": 3,
+      "division_id": 2,
+      "division": "Партнеры \"А\"",
+      "total": 6596518
+    },
+    {
+      "id": 414,
+      "type_id": 2,
+      "month": 9,
+      "quarter": 3,
+      "division_id": 6,
+      "division": "Зарубежные рынки",
+      "total": 0
+    },
+    {
+      "id": 411,
+      "type_id": 2,
+      "month": 9,
+      "quarter": 3,
+      "division_id": 3,
+      "division": "Дистрибьюторы",
+      "total": 8444106
+    },
+    {
+      "id": 412,
+      "type_id": 2,
+      "month": 9,
+      "quarter": 3,
+      "division_id": 4,
+      "division": "Core3D",
+      "total": 812468
+    },
+    {
+      "id": 409,
+      "type_id": 2,
+      "month": 9,
+      "quarter": 3,
+      "division_id": 1,
+      "division": "АСКОН-Интеграция",
+      "total": 51329398
+    },
+    {
+      "id": 419,
+      "type_id": 2,
+      "month": 10,
+      "quarter": 4,
+      "division_id": 5,
+      "division": "Прочие",
+      "total": 0
+    },
+    {
+      "id": 416,
+      "type_id": 2,
+      "month": 10,
+      "quarter": 4,
+      "division_id": 2,
+      "division": "Партнеры \"А\"",
+      "total": 0
+    },
+    {
+      "id": 420,
+      "type_id": 2,
+      "month": 10,
+      "quarter": 4,
+      "division_id": 6,
+      "division": "Зарубежные рынки",
+      "total": 0
+    },
+    {
+      "id": 417,
+      "type_id": 2,
+      "month": 10,
+      "quarter": 4,
+      "division_id": 3,
+      "division": "Дистрибьюторы",
+      "total": 0
+    },
+    {
+      "id": 418,
+      "type_id": 2,
+      "month": 10,
+      "quarter": 4,
+      "division_id": 4,
+      "division": "Core3D",
+      "total": 0
+    },
+    {
+      "id": 415,
+      "type_id": 2,
+      "month": 10,
+      "quarter": 4,
+      "division_id": 1,
+      "division": "АСКОН-Интеграция",
+      "total": 0
+    },
+    {
+      "id": 425,
+      "type_id": 2,
+      "month": 11,
+      "quarter": 4,
+      "division_id": 5,
+      "division": "Прочие",
+      "total": 0
+    },
+    {
+      "id": 422,
+      "type_id": 2,
+      "month": 11,
+      "quarter": 4,
+      "division_id": 2,
+      "division": "Партнеры \"А\"",
+      "total": 0
+    },
+    {
+      "id": 426,
+      "type_id": 2,
+      "month": 11,
+      "quarter": 4,
+      "division_id": 6,
+      "division": "Зарубежные рынки",
+      "total": 0
+    },
+    {
+      "id": 423,
+      "type_id": 2,
+      "month": 11,
+      "quarter": 4,
+      "division_id": 3,
+      "division": "Дистрибьюторы",
+      "total": 0
+    },
+    {
+      "id": 424,
+      "type_id": 2,
+      "month": 11,
+      "quarter": 4,
+      "division_id": 4,
+      "division": "Core3D",
+      "total": 0
+    },
+    {
+      "id": 421,
+      "type_id": 2,
+      "month": 11,
+      "quarter": 4,
+      "division_id": 1,
+      "division": "АСКОН-Интеграция",
+      "total": 0
+    },
+    {
+      "id": 431,
+      "type_id": 2,
+      "month": 12,
+      "quarter": 4,
+      "division_id": 5,
+      "division": "Прочие",
+      "total": 0
+    },
+    {
+      "id": 428,
+      "type_id": 2,
+      "month": 12,
+      "quarter": 4,
+      "division_id": 2,
+      "division": "Партнеры \"А\"",
+      "total": 0
+    },
+    {
+      "id": 432,
+      "type_id": 2,
+      "month": 12,
+      "quarter": 4,
+      "division_id": 6,
+      "division": "Зарубежные рынки",
+      "total": 0
+    },
+    {
+      "id": 429,
+      "type_id": 2,
+      "month": 12,
+      "quarter": 4,
+      "division_id": 3,
+      "division": "Дистрибьюторы",
+      "total": 0
+    },
+    {
+      "id": 430,
+      "type_id": 2,
+      "month": 12,
+      "quarter": 4,
+      "division_id": 4,
+      "division": "Core3D",
+      "total": 0
+    },
+    {
+      "id": 427,
+      "type_id": 2,
+      "month": 12,
+      "quarter": 4,
+      "division_id": 1,
+      "division": "АСКОН-Интеграция",
+      "total": 0
+    }
+  ],
   "tasks": [
     {
       "id": 1,
-      "title": "Buy bananas",
+      "title": "Добавить в таблицу строку ИТОГО",
       "done": false
     },
     {
       "id": 2,
-      "title": "Eat bananas",
+      "title": "Посчитать колонку \"Выполнено\" (план-факт)",
       "done": false
     },
     {
       "id": 3,
-      "title": "Poo bananas",
+      "title": "Изменить данные: пересчитывать ИТОГО / ВЫПОЛНЕНО",
       "done": false
     },
     {
       "id": 4,
-      "title": "additional task",
+      "title": "Изменить данные: СОХРАНЯТЬ В БД",
+      "done": false
+    },
+    {
+      "id": 5,
+      "title": "test",
       "done": false
     }
-  ]
+  ],
+  "profile": {
+    "name": "default"
+  }
 }

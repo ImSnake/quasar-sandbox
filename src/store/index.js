@@ -6,7 +6,7 @@ export default createStore({
     userName: 'Pulikova Yuliya',
     userContact: '@puly',
     tasks: [],
-    //task: {}
+    dashboard: []
   },
   mutations: {
     ADD_TASK(state, task) {
@@ -20,6 +20,12 @@ export default createStore({
     },
     UPDATE_TASK(state, task) {
       state.tasks.find(value => value.id === task.id).done = task.done;
+    },
+
+    SET_YEAR_DATA(state, yearData) {
+      state.dashboard.push(yearData);
+      //plan: data.filter(value => value.type_id === 1).map(item => item.total).reduce((prev, curr) => prev + curr, 0),
+      //  fact: data.filter(value => value.type_id === 2).map(item => item.total).reduce((prev, curr) => prev + curr, 0),
     }
   },
   actions: {
@@ -58,6 +64,17 @@ export default createStore({
         .catch(error => {
           throw(error);
         });
+    },
+
+    async fetchYearData({ commit }, year) {
+      const data = (await EventService.getYearData(year)).data;
+        /*.catch(error => {
+          throw(error);
+        });*/
+      commit('SET_YEAR_DATA', {
+        year: year,
+        data: data
+      });
     }
   },
   modules: {

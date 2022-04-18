@@ -6,3 +6,13 @@
   </q-page>
 
 </template>
+
+<script>
+
+export default {
+  created() {
+    console.log('help created');
+  },
+}
+
+</script>

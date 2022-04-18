@@ -23,15 +23,17 @@
       <q-item class="q-pl-sm" clickable v-ripple
           :class="{ 'done' : task.done }"
           v-for="task in tasks"
-          :key="task.id"
-          @click.stop="updateTask(task)"  >
+          :key="task.id"  >
 
-        <q-item-section avatar>
+        <q-item-section avatar @click.stop="updateTask(task)" >
           <q-checkbox v-model="task.done" class="no-pointer-events" color="primary" />
         </q-item-section>
 
-        <q-item-section>
-          <q-item-label>{{ task.title }}</q-item-label>
+        <q-item-section @click.stop="editTask(task.id)">
+          <q-item-label class="row no-wrap justify-between items-center" contenteditable="true">
+            <div>{{ task.title }}</div>
+            <q-btn color="primary" icon="done" dense flat round />
+          </q-item-label>
         </q-item-section>
 
         <q-item-section v-if="task.done" side >
@@ -56,6 +58,7 @@ export default {
   name: 'Todo',
 
   created() {
+    console.log('todo craeted');
     this.$store.dispatch('fetchTasks')
       .catch(error => {
         this.$router.push({
@@ -78,7 +81,6 @@ export default {
   },
 
   methods: {
-
     addTask() {
       if (this.newTask) {
         const maxId = this.$store.state.tasks.reduce((acc, item) => item = acc > item.id ? acc : item.id, 0);
@@ -133,7 +135,13 @@ export default {
       });
     },
 
+    editTask(taskId){
+      console.log('edit task');
+      console.log(taskId);
+    },
+
     updateTask(task) {
+      console.log('update task');
       task.done = !task.done;
       this.$store.dispatch('updateTask', task)
         .catch( error => {

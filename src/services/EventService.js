@@ -14,7 +14,6 @@ export default {
 		return apiClient.get('/tasks');
 	},
 	postTask(task) {
-		console.log(task);
 		return apiClient.post('/tasks', task);
 	},
 	deleteTask(id) {
@@ -22,6 +21,10 @@ export default {
 	},
 	updateTask(id, value) {
 		return apiClient.put('/tasks/' + id, value);
+	},
+
+	getYearData(year) {
+		return apiClient.get('/' + year);
 	}
 
 }
