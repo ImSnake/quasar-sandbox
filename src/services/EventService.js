@@ -22,7 +22,6 @@ export default {
 	updateTask(id, value) {
 		return apiClient.put('/tasks/' + id, value);
 	},
-
 	getYearData(year) {
 		return apiClient.get('/' + year);
 	}
